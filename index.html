@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Tech Stack Workflow</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body { font-family: sans-serif; }
+        .mermaid { text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>API Tech Stack Workflow</h1>
+    <pre class="mermaid">
+graph TD
+    subgraph "Request Pipeline"
+        A[User Request: /hackrx/run] --> B{Input Validation};
+        B --> C[Get NVIDIA API Key];
+        C --> D{Download & Detect File};
+        D -- Binary/Archive --> E[Answer from Knowledge];
+        D -- Other Formats --> F{Cache Check};
+        F -- Cache Hit --> G[Load from Cache];
+        F -- Cache Miss --> H[Process File];
+        H --> I[Chunk & Embed];
+        I --> J[Create FAISS Vectorstore];
+        J --> K[Save to Cache];
+        K --> G;
+        G --> L[Detect Document Type];
+        L --> M{Process Questions};
+    end
+
+    subgraph "Question Processing Loop"
+        M --> N[Preprocess Question];
+        N --> O[Classify Question];
+        O --> P[Get Retrieval Params];
+        P --> Q[Hybrid Retrieval];
+        Q --> R[LLM Call];
+        R --> S[Clean & Trim Answer];
+        S --> T[Add to Context History];
+        T --> M;
+    end
+
+    subgraph "Response Generation"
+        M -- All Questions Processed --> U[Gather Answers];
+        U --> V[Save Results to JSON];
+        V --> W[Return Final Response];
+    end
+
+    style E fill:#f9f,stroke:#333,stroke-width:2px
+</pre>
+
+    <h2>Tech Stack Analysis</h2>
+    <pre class="mermaid">
+graph TD
+    subgraph "Current Stack"
+        X[Current Stack]
+        X --> X1[BAAI/bge-large-en-v1.5 Embeddings];
+        X --> X2[meta/llama-4-maverick-17b-128e-instruct LLM];
+        X --> X3[FAISS Vectorstore];
+        X --> X4[Enhanced Hybrid Retrieval];
+        X --> X5[Adaptive Retrieval Params];
+        X --> X6[Dynamic Prompt Engineering];
+        X --> X7[Multi-format Document Loaders];
+        X --> X8[Advanced Caching Mechanism];
+    end
+
+    subgraph "Potential Improvements"
+        Y[Potential Improvements]
+        Y --> Y1[Implement a Reranker Model];
+        Y --> Y2[Use a Graph Database for Context];
+        Y --> Y3[Add Query Decomposition for Complex Questions];
+        Y --> Y4[Integrate Knowledge Graphs];
+        Y --> Y5[Automated Model Evaluation & A/B Testing];
+    end
+
+    style Y1 fill:#bbf,stroke:#333,stroke-width:2px
+    style Y2 fill:#bbf,stroke:#333,stroke-width:2px
+    style Y3 fill:#bbf,stroke:#333,stroke-width:2px
+    style Y4 fill:#bbf,stroke:#333,stroke-width:2px
+    style Y5 fill:#bbf,stroke:#333,stroke-width:2px
+</pre>
+
+    <h2>Module Usage by Task</h2>
+    <pre class="mermaid">
+graph TD
+    subgraph "Core Infrastructure"
+        T1[API Framework] --> M1[fastapi];
+        T2[Async Operations] --> M2[asyncio];
+        T3[HTTP Communication] --> M3[httpx, requests];
+        T4[Configuration] --> M4[dotenv, os];
+        T5[Data Validation] --> M5[pydantic];
+    end
+
+    subgraph "File & Data Processing"
+        T6[File Handling] --> M6[os, tempfile, zipfile, io];
+        T7[Document Loading] --> M7[langchain_community.document_loaders];
+        T8[Text Splitting] --> M8[langchain_text_splitters];
+        T9[Image Processing] --> M9[Pillow, easyocr, pytesseract];
+        T10[Excel Processing] --> M10[openpyxl, xlrd];
+    end
+
+    subgraph "Machine Learning & RAG"
+        T11[Embeddings] --> M11[HuggingFaceEmbeddings, torch];
+        T12[Vector Store] --> M12[FAISS, langchain_community.vectorstores];
+        T13[Prompt Engineering] --> M13[langchain.prompts];
+        T14[LLM Interaction] --> M14[httpx];
+        T15[Caching] --> M15[hashlib, pickle];
+    end
+
+    style M1 fill:#c9f,stroke:#333,stroke-width:2px
+    style M2 fill:#c9f,stroke:#333,stroke-width:2px
+    style M3 fill:#c9f,stroke:#333,stroke-width:2px
+    style M4 fill:#c9f,stroke:#333,stroke-width:2px
+    style M5 fill:#c9f,stroke:#333,stroke-width:2px
+    style M6 fill:#c9f,stroke:#333,stroke-width:2px
+    style M7 fill:#c9f,stroke:#333,stroke-width:2px
+    style M8 fill:#c9f,stroke:#333,stroke-width:2px
+    style M9 fill:#c9f,stroke:#333,stroke-width:2px
+    style M10 fill:#c9f,stroke:#333,stroke-width:2px
+    style M11 fill:#c9f,stroke:#333,stroke-width:2px
+    style M12 fill:#c9f,stroke:#333,stroke-width:2px
+    style M13 fill:#c9f,stroke:#333,stroke-width:2px
+    style M14 fill:#c9f,stroke:#333,stroke-width:2px
+    style M15 fill:#c9f,stroke:#333,stroke-width:2px
+</pre>
+</body>
+</html>
