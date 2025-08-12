@@ -14,5 +14,1477 @@
       "failed_answers": 0,
       "timestamp": "2025-08-10 18:34:47"
     }
+  },
+  {
+    "request_id": "02ceccf1",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "This presentation is about a health insurance policy provided by Oriental Insurance, detailing its coverage, benefits, and terms. The policy offers comprehensive medical expense coverage, including hospitalization, domiciliary hospitalization, and specialized medical coverage areas like HIV/AIDS and mental illness. Key aspects include policy conditions, exclusions, waiting periods, and claim procedures (as seen in slides like \"Policy Overview\", \"Coverage Basics\", \"Grievance Process\", and \"Exclusions Waiting Periods\")."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "The presentation outlines a comprehensive insurance policy covering medical expenses arising from illness or accidental injury. Key points include coverage basics, such as named insured persons and annual premium payments (Slide: Coverage Basics), and service delivery through Third Party Administrators (TPAs) and direct company services (Slide: Service Delivery). The policy covers hospitalization expenses, domiciliary hospitalization, and reimbursable medical expenses, with specific conditions and exclusions, such as pre-existing diseases waiting periods and general waiting periods (Slides: Hospitalization Expenses, Domiciliary Hospitalization, and Exclusions Waiting Periods)."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "The key coverage areas of this presentation include hospitalization expenses for medical and surgical treatments, domiciliary hospitalization benefits for home treatment when hospital admission is not possible, and specialized medical coverage areas such as HIV/AIDS, mental illness, and advanced procedures. Additionally, the policy covers medical fees, room services, and ambulance services. The coverage is subject to certain limits, such as the sum insured amount, and specific conditions and expenses are excluded. (Reference: Slides on \"Hospitalization Expenses\", \"Domiciliary Hospitalization\", and \"Specialized Medical Coverage Areas\")."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:17"
+    }
+  },
+  {
+    "request_id": "3a33513f",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy allows a grace period of 30 days for premium payment to maintain continuity of benefits without break in policy (Section 5.15.v). Coverage is not available during this grace period. The policy shall terminate at the end of the policy period if the premium is not paid within the given grace period."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is thirty-six (36) months of continuous coverage after the date of inception of the first policy with the Company (Section 4.1.a). This waiting period can be reduced if the Insured Person has prior coverage under the portability norms of the extant IRDAI (Health Insurance) Regulations (Section 4.1.c). Coverage for PED is also subject to the condition that it was declared at the time of application and accepted by the Company (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "Yes, this policy covers maternity expenses, including pre-natal and post-natal hospitalization expenses, under Section 3.1.14 (Maternity). The coverage is subject to a waiting period of 24 months and is limited to the sum insured as shown in the Table of Benefits. The policy also covers expenses for necessary vaccination for the New Born Baby as part of maternity expenses. Exclusions apply, such as delivery or termination within the waiting period, more than two deliveries or terminations, and maternity expenses of a surrogate mother unless related to infertility treatment under Section 3.1.15."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in Section 4.2.f).i under the National Parivar Mediclaim Plus Policy. This waiting period applies unless the condition is a result of an accident. The coverage for cataract surgery is subject to the terms and conditions of the policy, including the specified limit for cataract surgery as shown in the Table of Benefits."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers Organ Donor's Medical Expenses under Section 3.1.7, provided the organ donation conforms to the Transplantation of Human Organs Act 1994 and the Insured Person has been medically advised to undergo an organ transplant. The policy indemnifies the Medical Expenses incurred for the organ donor's Hospitalisation during the Policy Period for harvesting of the donated organ. However, it excludes Pre-hospitalization and Post-Hospitalization Medical Expenses of the organ donor, costs associated with the acquisition of the donor's organ, and any medical treatment or complication in respect of the donor consequent to harvesting."
+      },
+      {
+        "question": "What is the No Claim Discount (NCD) offered in this policy?",
+        "answer": "The No Claim Discount (NCD) offered in this policy is a flat 5% on the base premium, provided no claims are reported in the expiring policy. For policies with a term of one year, the NCD is 5% of the base premium, while for policies with a term exceeding one year, the NCD amount is aggregated and allowed on renewal, not exceeding 5% of the total base premium for the term of the policy (Section 3.2.1)."
+      },
+      {
+        "question": "Is there a benefit for preventive health check-ups?",
+        "answer": "Yes, the policy provides a benefit for health check-ups, which shall be reimbursed at the end of a block of two continuous policy years, provided the policy has been continuously renewed without a break (Section 3.2.2). The expenses payable are subject to the limit stated in the Table of Benefits, which varies across plans (e.g., up to INR 5,000 for Plan A, INR 7,500 for Plan B, and INR 10,000 for Plan C)."
+      },
+      {
+        "question": "How does the policy define a 'Hospital'?",
+        "answer": "A 'Hospital' is defined as any institution established for in-patient care and day care treatment of disease/injuries, registered as a hospital with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or complying with minimum criteria such as having qualified nursing staff, inpatient beds, qualified medical practitioners, and a fully equipped operation theatre (Section 2.22). The hospital must maintain daily records of patients and make them accessible to the Company's authorized personnel."
+      },
+      {
+        "question": "What is the extent of coverage for AYUSH treatments?",
+        "answer": "The policy covers AYUSH treatments under Section 3.1.6, with medical expenses indemnified up to the limit of the Sum Insured specified in the Policy Schedule, in any AYUSH Hospital. The coverage includes inpatient care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines. The AYUSH Hospital must comply with specified criteria, including having qualified AYUSH Medical Practitioners and dedicated therapy sections."
+      },
+      {
+        "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+        "answer": "For Plan A, the room rent is limited to \"Up to 1% of SI or actual, whichever is lower\" and ICU charges are limited to \"Up to 2% of SI or actual, whichever is lower\" as per the Table of Benefits. These limits are specified for each insured person per day. The exact limits depend on the chosen Sum Insured (SI) for Plan A, which ranges from INR 6 Lac to INR 10 Lac."
+      }
+    ],
+    "summary": {
+      "total_questions": 10,
+      "successful_answers": 10,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:26"
+    }
+  },
+  {
+    "request_id": "cdc4aaf3",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Happy%20Family%20Floater%20-%202024%20OICHLIP25046V062425%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A24%3A30Z&se=2026-08-01T17%3A24%3A00Z&sr=b&sp=r&sig=VNMTTQUjdXGYb2F4Di4P0zNvmM2rTBoEHr%2BnkUXIqpQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "In the case of a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, what is the procedure for claim settlement, coordination, and required documentation?",
+        "answer": "In a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, the primary insurer shall seek details of other available policies of the policyholder and coordinate with other insurers to ensure settlement of the balance amount as per policy conditions (Section 5.22). The insured person has the right to choose the primary insurer and claim the balance amount from another insurer if the amount exceeds the sum insured under a single policy. The primary insurer will settle the claim as per the terms of the chosen policy, and the insured person can claim the balance amount under another policy. Relevant documentation, including details of previous policies, must be provided to facilitate coordination among insurers."
+      },
+      {
+        "question": "While checking the process for submitting a dental claim for a 23-year-old financially dependent daughter (who recently married and changed her surname), also confirm the process for updating her last name in the policy records and provide the company's grievance redressal email.",
+        "answer": "To submit a dental claim for the 23-year-old financially dependent daughter, the policyholder should provide the required claim documents, including original bills, receipts, and discharge certificates, to the Company/TPA within 15 days of discharge from the Hospital/Nursing Home, as per Section 5.19. However, since she is now married, she is no longer eligible for coverage under the policy as per Section A, which states that a female child can be covered until she gets married. To update her last name in the policy records, the policyholder should communicate the change in writing to the Company, and such change will be effective only when an endorsement on the policy is made, as per Section 5.14. For grievance redressal, the policyholder can refer to the link: https://orientalinsurance.org.in/grievance-redressal or approach the Insurance Ombudsman as per Section 5.13."
+      },
+      {
+        "question": "Suppose the insured's hospitalization was for evaluation and all tests and imaging were negative, leading to a decision for no treatment. Are these expenses claimable? Discuss using definitions and exclusions.",
+        "answer": "Expenses related to hospitalization primarily for diagnostics and evaluation purposes are excluded under the policy, as per Section 4.4 (Investigation & Evaluation – Code – ExcI04). Since all tests and imaging were negative and no treatment was given, the admission was primarily for evaluation, making the expenses non-claimable. The policy specifically excludes expenses for diagnostic purposes only, unless related to the current diagnosis and treatment. Therefore, these expenses are not covered under the policy."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:35"
+    }
+  },
+  {
+    "request_id": "91735c62",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "questions_and_answers": [
+      {
+        "question": "When will my root canal claim of Rs 25,000 be settled?",
+        "answer": "As per Section 9.4 (Claim Settlement) of the Arogya Sanjeevani Policy, the Company shall settle or reject a claim within 15 days from the date of receipt of the last necessary document. If there is a delay beyond 15 days, the Company shall be liable to pay interest at a rate 2% above the bank rate. Additionally, a co-payment of 5% (since you are likely below 75 years) will be deducted from the admissible claim amount as per Section 9.3 (Co-payment). Therefore, your claim will be settled within 15 days from the date of receipt of the last necessary document, subject to the terms and conditions of the policy, and after deducting the applicable co-payment."
+      },
+      {
+        "question": "I have done an IVF for Rs 56,000. Is it covered?",
+        "answer": "The expenses related to Assisted Reproduction services, including IVF, are excluded under Section 7.14 (Sterility and Infertility) of the policy. Therefore, your IVF expenses of Rupees 56,000 are not covered under the Arogya Sanjeevani Policy."
+      },
+      {
+        "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+        "answer": "The policy covers cataract treatment up to 25% of the Sum Insured or Rs. 40,000, whichever is lower, per eye, under one policy year (Section 4.3). Since the treatment cost is Rs. 100,000, the claim will be settled up to the sublimit, which is likely Rs. 40,000, depending on the Sum Insured. You will be required to check your Sum Insured to determine the exact amount payable."
+      },
+      {
+        "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+        "answer": "For hospitalization due to heart surgery, the following documents are required to be submitted for reimbursement: i. Duly completed claim form ii. Photo Identity proof of the patient iii. Medical practitioner's prescription advising admission iv. Original bills with itemized break-up v. Payment receipts vi. Discharge summary including complete medical history of the patient vii. Investigation/Diagnostic test reports supported by the prescription from the attending medical practitioner viii. OT notes or Surgeon's certificate giving details of the operation performed ix. Sticker/Invoice of the Implants, wherever applicable x. NEFT Details and cancelled cheque xi. KYC (Identity proof with Address) of the proposer, if claim liability is above Rs. 1 Lakh xii. Any other relevant document required by the Company/TPA for assessment of the claim, as per Section 9.2."
+      }
+    ],
+    "summary": {
+      "total_questions": 4,
+      "successful_answers": 4,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:43"
+    }
+  },
+  {
+    "request_id": "959f065f",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "ട്രംപ് ഏത് ദിവസമാണ് 100% ശുൽകം പ്രഖ്യാപിച്ചത്?",
+        "answer": "2025 ഓഗസ്റ്റ് 6-ന് ആണ് ട്രംപ് വിദേശത്ത് നിർമ്മിച്ച കമ്പ്യൂട്ടർ ചിപ്പുകളുടെയും സെമികണ്ടക്ടറുകളുടെയും ഇറക്കുമതിക്ക് 100 ശതമാനം ശുല്ക്കം ഏർപ്പെടുത്തുമെന്ന് പ്രഖ്യാപിച്ചത്."
+      },
+      {
+        "question": "What was Apple’s investment commitment and what was its objective?",
+        "answer": "Apple's investment commitment was $600 billion. The objective of this significant investment was to boost manufacturing in the US, aligning with the efforts to reduce foreign dependency and strengthen domestic infrastructure, as indicated by the context surrounding Trump's announcement on tariffs for imported computer chips and semiconductors. This move is seen as furthering the momentum in this direction."
+      }
+    ],
+    "summary": {
+      "total_questions": 2,
+      "successful_answers": 2,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:50"
+    }
+  },
+  {
+    "request_id": "a8bc1bc7",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is my train number?",
+        "answer": "There is no information about a train number in the provided context. The context appears to be discussing economic and trade-related news, specifically about the US imposing tariffs on imported computer chips and semiconductors. Therefore, it is not possible to determine a train number based on this context."
+      }
+    ],
+    "summary": {
+      "total_questions": 1,
+      "successful_answers": 1,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:20:57"
+    }
+  },
+  {
+    "request_id": "173f30a8",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "There is no information about spark plug gap in the provided presentation context. The context appears to be related to health insurance policies, coverage, and exclusions. Therefore, it is not possible to determine the ideal spark plug gap as it is not relevant to the given context."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "The provided presentation context does not mention \"tubeless tyre version\" or any related information about vehicles or tyres. The context appears to be related to health insurance policies, coverage, and exclusions. Therefore, it is not possible to determine if something comes in a tubeless tyre version based on the given information."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "There is no mention of \"disc brake\" in the provided presentation context. The content appears to be related to health insurance policies, coverage, and exclusions. Therefore, it is not possible to determine if having a disc brake is compulsory based on the given information."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "The provided context does not mention anything related to putting \"thums up\" instead of oil. The presentation appears to be discussing health insurance policies, coverage, and exclusions, with no reference to \"thums up\" or oil in this context. Therefore, it is not possible to provide a relevant answer based on the given information."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "I'm a presentation analysis expert, and I will provide an answer based on the given presentation context. However, the question \"Give me JS code to generate a random number between 1 and 100\" is unrelated to the provided context. If you'd like, I can still provide the JavaScript code: ```javascript Math.floor(Math.random() * 100) + 1; ```."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:06"
+    }
+  },
+  {
+    "request_id": "dfee59ec",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "There is no mention of the \"National Parivar Mediclaim Plus Policy\" in the provided document. However, according to Section IV and V of the document, the premium due must be paid by the proposer to the company before the due date, and there is no explicit mention of a grace period (Mediclaim Insurance Policy (Group) UIN: OICHLGP25047V032425, The Oriental Insurance Company Limited)."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is 36 months, provided the condition is declared at the time of application and accepted by the insurer or its reinstatement (Section 4.1.d). However, if the Insured person has continuous coverage without any break as defined under the portability norms, the waiting period is reduced to the extent of prior coverage (Section 4.1.c). Pre-existing disease is defined as any condition diagnosed or treated within 36 months prior to the policy's effective date or its reinstatement (Section 3.15)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "This policy covers maternity expenses under the \"Maternity Expenses and Newborn Child Cover Benefit Extension\" clause (Section 2C). To be eligible, the insured person must opt for this cover at the inception of the policy period, and it is subject to certain conditions, such as a 9-month waiting period for normal delivery or caesarean section (Section 2C, b). The maximum benefit allowable is up to Rs. 50,000, and the sum insured under this benefit is a part of the basic sum insured (Section 2C, e)."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in the policy document under section 4.1 (f), which lists ailments/diseases/surgeries and their corresponding waiting periods (vii. Cataract. 2 Years)."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "Yes, hospitalization expenses incurred for donating an organ to the insured person during the course of organ transplant are covered under this policy (as stated in the \"Note\" section). However, the cost of the organ itself is excluded, and the liability of the Company is limited to the overall Sum Insured of the Insured Person."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:14"
+    }
+  },
+  {
+    "request_id": "0ec4ccda",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the official name of India according to Article 1 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about the official name of India according to Article 1 of the Constitution. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+        "answer": "The provided spreadsheet context does not contain information about articles or laws. However, it is general knowledge that Article 14 of the Indian Constitution guarantees equality before the law and equal protection of laws to all persons."
+      },
+      {
+        "question": "What is abolished by Article 17 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about Article 17 of the Constitution. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+        "answer": "There is no information about the Preamble of the Constitution of India in the provided spreadsheet context. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+        "answer": "Not applicable as the provided context is related to Excel spreadsheet analysis and doesn't contain information about Articles related to altering state boundaries. However, based on general knowledge, the answer is Article 3."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:20"
+    }
+  },
+  {
+    "request_id": "0e14ef6c",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Pincode%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A50%3A43Z&se=2026-08-05T18%3A50%3A00Z&sr=b&sp=r&sig=xf95kP3RtMtkirtUMFZn%2FFNai6sWHarZsTcvx8ka9mI%3D",
+    "questions_and_answers": [
+      {
+        "question": "If my car is stolen, what case will it be in law?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If I am arrested without a warrant, is that legal?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If someone denies me a job because of my caste, is that allowed?",
+        "answer": "There is no data or information in the provided spreadsheet context related to caste or job denial. The spreadsheet contains a table with columns for Name, Mobile Number, Pincode, and Salary. The data appears to be a list of individuals with their contact information and salary details."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:27"
+    }
+  },
+  {
+    "request_id": "8852caa5",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D",
+    "questions_and_answers": [
+      {
+        "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+        "answer": "The provided OCR extracted text does not contain any information related to Newton's definition of 'quantity of motion' or 'force'. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      },
+      {
+        "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+        "answer": "There is no information about Newton's laws of motion or celestial mechanics in the provided OCR extracted text. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Image processing limitations do not affect the answer as the text is unrelated to the question."
+      },
+      {
+        "question": "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+        "answer": "There is no information in the provided OCR extracted text related to Newton's derivation of Kepler's Second Law or his laws of motion and gravitation. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:33"
+    }
+  },
+  {
+    "request_id": "83af2b63",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "The ideal spark plug gap recommended varies depending on the vehicle make, model, and year, as well as the type of spark plugs used. Generally, the recommended spark plug gap can be found in the vehicle's owner's manual or on a placard under the hood. Typically, the recommended spark plug gap for modern vehicles ranges from 0.028 to 0.060 inches (0.7 to 1.5 mm). However, some vehicles may require a gap as small as 0.020 inches (0.5 mm) or as large as 0.080 inches (2 mm). Here are some general guidelines for spark plug gaps: * Older vehicles with points-based ignition systems: 0.035 to 0.045 inches (0.9 to 1.1 mm) * Modern vehicles with electronic ignition systems: 0.028 to 0.060 inches (0.7 to 1.5 mm) * High-performance vehicles: 0.020 to 0.040 inches (0.5 to 1 mm) * Vehicles with turbochargers or superchargers: 0.028 to 0.040 inches (0.7 to 1 mm) It's essential to consult the vehicle's manufacturer specifications for the recommended spark plug gap to ensure proper engine performance, fuel efficiency, and to prevent damage to the engine or spark plugs. Some common spark plug gap recommendations for popular vehicles are: * Ford: 0.052 to 0.056 inches (1.3 to 1.4 mm) * Chevrolet: 0.045 to 0.060 inches (1.1 to 1.5 mm) * Toyota: 0.043 to 0.047 inches (1.1 to 1.2 mm) * Honda: 0.039 to 0.043 inches (1 to 1.1 mm) Again, it's crucial to check the vehicle's manufacturer specifications for the recommended spark plug gap, as it may vary depending on the specific application."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "To provide an accurate answer, I would need to know the specific tyre model or vehicle you're referring to. However, I can give you a general insight into tubeless tyres. Tubeless tyres are designed to operate without an inner tube, relying on a special rim and tyre design to create an airtight seal. Many modern vehicles come equipped with tubeless tyres due to their advantages, such as reduced risk of sudden deflation (since there's no tube that can puncture), potentially better fuel efficiency due to lower rolling resistance, and sometimes improved handling. Most tyres manufactured today, especially for cars and many motorcycles, are available in tubeless versions. The decision to use tubeless tyres often depends on the vehicle manufacturer's specifications, the type of vehicle, and the intended use of the vehicle (e.g., racing, off-road, standard driving). If you're asking about a specific tyre or vehicle model, it would be helpful to know the details. Generally, though, many tyres are available in tubeless versions, but it's always best to check the specifications for your particular vehicle or consult with a tyre professional."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "The necessity of having a disc brake depends on various factors, including the type of vehicle, its intended use, and local regulations. Here's a general overview: **Not always compulsory, but often recommended or required in certain situations:** 1. **High-performance vehicles**: Disc brakes are often used in high-performance vehicles due to their improved stopping power and heat dissipation. 2. **Heavy vehicles**: Large and heavy vehicles, such as trucks and buses, often require disc brakes due to their increased stopping distance and heat generation. 3. **Racing and motorsports**: Disc brakes are typically used in racing and motorsports applications due to their high-performance capabilities. 4. **Safety regulations**: Some countries or regions have regulations that require disc brakes on certain types of vehicles, such as motorcycles or high-speed trains. **Regulations and standards:** 1. **Automotive regulations**: In many countries, there are regulations governing brake performance and safety. For example, the United Nations Economic Commission for Europe (UNECE) Regulation 13H requires disc brakes on certain categories of vehicles. 2. **Industry standards**: Organizations like the Society of Automotive Engineers (SAE) and the International Organization for Standardization (ISO) publish standards for brake systems, which may recommend or require disc brakes for specific applications. **When disc brakes are not compulsory:** 1. **Low-speed vehicles**: For low-speed vehicles, such as bicycles or low-speed electric vehicles, drum brakes or other types of braking systems may be sufficient. 2. **Older vehicles**: Older vehicles may not have disc brakes, and their original equipment may have used drum brakes or other technologies. 3. **Specialized applications**: Certain specialized applications, such as agricultural or construction equipment, may use alternative braking systems due to specific requirements or constraints. In summary, while disc brakes are not always compulsory, they are often recommended or required in certain situations due to their improved performance, safety, and regulatory compliance."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "No, you cannot put Thums Up (a cola brand) instead of oil. Thums Up is a carbonated soft drink, and it is not a suitable substitute for oil in any context, such as cooking or lubricating mechanical parts. Oil is used for various purposes like cooking, lubrication, or as a fuel, depending on the type of oil. Thums Up, being a soft drink, does not have the same properties or functions as oil. Using Thums Up in place of oil would not achieve the desired outcome and could potentially cause problems or damage. If you're looking for alternatives to a specific type of oil, there are other oils or substances that might be suitable, depending on the intended use. However, Thums Up is not a viable or appropriate substitute."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "To generate a random number between 1 and 100 in JavaScript, you can use the `Math.random()` function, which generates a random number between 0 (inclusive) and 1 (exclusive). You then scale this number to the desired range. Here's how you can do it: ```javascript function getRandomNumber(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; } const randomNumber = getRandomNumber(1, 100); console.log(randomNumber); ``` In this code: 1. `Math.random()` generates a random number between 0 and 1. 2. `Math.random() * (max - min + 1)` scales this to a number between 0 and the range (`max - min + 1`), so for `min = 1` and `max = 100`, it generates a number between 0 and 100. 3. `Math.floor(...)` rounds down to the nearest whole number, giving a number between 0 and 100. 4. Adding `min` shifts the range to between `min` and `max`, so for `min = 1` and `max = 100`, you get a number between 1 and 100. This code is encapsulated in a function `getRandomNumber(min, max)` that you can reuse to generate random numbers within any range by passing the minimum and maximum values as arguments."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:21:42"
+    }
+  },
+  {
+    "request_id": "734fe3ed",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D",
+    "questions_and_answers": [
+      {
+        "question": "If an insured person takes treatment for arthritis at home because no hospital beds are available, under what circumstances would these expenses NOT be covered, even if a doctor declares the treatment was medically required?",
+        "answer": "There is no relevant information in the provided document context regarding insurance coverage or medical treatment for arthritis. The document appears to be a collection of factually incorrect statements on various topics. As such, it is not possible to extract relevant information to answer the question comprehensively. The document does not contain any sections related to insurance or medical treatment (throughout the document)."
+      },
+      {
+        "question": "A claim was lodged for expenses on a prosthetic device after a hip replacement surgery. The hospital bill also includes the cost of a walker and a lumbar belt post-discharge. Which items are payable?",
+        "answer": "According to the provided context, there is no relevant information regarding hospital bills, prosthetic devices, or medical expenses. However, based on general inference and not the provided context, one might expect that a prosthetic device related to hip replacement surgery, as well as related mobility aids like a walker and lumbar belt, could be considered payable expenses. The document does not provide any information to support or refute this claim (Reference: entire document context). Therefore, it is not possible to determine which items are payable based on the given context."
+      },
+      {
+        "question": "An insured's child (a dependent above 18 but under 26, unemployed and unmarried) requires dental surgery after an accident. What is the claim admissibility, considering both eligibility and dental exclusions, and what is the process for this specific scenario?",
+        "answer": "There is no information in the provided document context regarding insurance claims, eligibility, dental exclusions, or the process for handling such claims. The document appears to contain a list of factually incorrect statements on various topics. As there is no relevant information, it is not possible to determine the claim admissibility or the process for the described scenario (N/A - Not Applicable due to lack of relevant context)."
+      },
+      {
+        "question": "If an insured undergoes Intra Operative Neuro Monitoring (IONM) during brain surgery, and also needs ICU care in a city over 1 million population, how are the respective expenses limited according to modern treatments, critical care definition, and policy schedule?",
+        "answer": "There is no relevant information in the provided document context regarding Intra Operative Neuro Monitoring (IONM), Intensive Care Unit (ICU) care, modern treatments, critical care definition, or policy schedule. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine the respective expenses or limitations based on this context (Reference: entire document)."
+      },
+      {
+        "question": "A policyholder requests to add their newly-adopted child as a dependent. The child is 3 years old. What is the process and under what circumstances may the insurer refuse cover for the child, referencing eligibility and addition/deletion clauses?",
+        "answer": "There is no information in the provided document context regarding insurance policies, eligibility, or addition/deletion clauses. The document appears to be a collection of factually incorrect statements on various topics. As such, it is not possible to determine the process for adding a dependent child to an insurance policy or the circumstances under which an insurer may refuse cover based on this context."
+      },
+      {
+        "question": "If a person is hospitalised for a day care cataract procedure and after two weeks develops complications requiring 5 days of inpatient care in a non-network hospital, describe the claim process for both events, referencing claim notification timelines and document requirements.",
+        "answer": "There is no relevant information in the provided document context regarding the claim process for hospitalization or medical procedures. The document appears to contain a collection of factually incorrect statements on various subjects, with no mention of medical claims or insurance procedures. As such, it is not possible to extract information on claim notification timelines or document requirements from this context. The document does not address the topic of hospitalization or medical claims (throughout the entire document)."
+      },
+      {
+        "question": "An insured mother with cover opted for maternity is admitted for a complicated C-section but sadly, the newborn expires within 24 hours requiring separate intensive care. What is the claim eligibility for the newborn's treatment expenses, referencing definitions, exclusions, and newborn cover terms?",
+        "answer": "There is no information in the provided document context related to insurance claims, maternity cover, or newborn care. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine claim eligibility for the newborn's treatment expenses based on this context. No relevant definitions, exclusions, or terms related to newborn cover are available."
+      }
+    ],
+    "summary": {
+      "total_questions": 7,
+      "successful_answers": 7,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:22:05"
+    }
+  },
+  {
+    "request_id": "6e431d92",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "This presentation is about a health insurance policy provided by Oriental Insurance, outlining its coverage, benefits, and terms. The policy offers comprehensive medical expense coverage, including hospitalization, domiciliary hospitalization, and specialized medical coverage. Key aspects include coverage details, reimbursement processes, exclusions, waiting periods, and policy conditions (as seen in slides such as \"Policy Overview\", \"Coverage Basics\", \"Exclusions Waiting Periods\", and \"Policy Conditions Requirements\")."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "The presentation outlines a comprehensive insurance policy covering medical expenses arising from illness or accidental injury. Key points include coverage basics, such as named insured persons and annual premium payments (Slide: Coverage Basics), and service delivery through Third Party Administrators (TPAs) and direct company services (Slide: Service Delivery). The policy covers hospitalization expenses (Slide: Hospitalization Expenses), domiciliary hospitalization (Slide: Domiciliary Hospitalization), and reimbursable medical expenses, including room services, medical fees, and additional services like ambulance coverage (Slides: Reimbursable Medical Expenses Coverage, Room Services, Medical Fees, Additional Services)."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "The key coverage areas of this presentation include hospitalization expenses for medical and surgical treatments, domiciliary hospitalization for treatment at home when hospital admission is not possible, and specialized medical coverage areas such as HIV/AIDS, mental illness, and advanced procedures. Additionally, the policy covers medical fees, room services, and ambulance services. The presentation also highlights optional maternity coverage and telemedicine benefits, with specific coverage limits and requirements (Slides: \"Hospitalization Expenses\", \"Domiciliary Hospitalization\", \"Specialized Medical Coverage Areas\", \"Telemedicine Maternity Benefits\")."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:35:39"
+    }
+  },
+  {
+    "request_id": "f52e0e3f",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy allows a grace period of 30 days for premium payment to maintain continuity of benefits without break in policy (Section 5.15.v). Coverage is not available during this grace period. The policy shall terminate at the end of the policy period if the premium is not paid before the end of the policy period or within the grace period."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is thirty-six (36) months of continuous coverage after the date of inception of the first policy with the Company (Section 4.1.a). This waiting period can be reduced if the Insured Person has prior coverage under the portability norms of the extant IRDAI (Health Insurance) Regulations (Section 4.1.c). Coverage for PED is also subject to the condition that it was declared at the time of application and accepted by the Company (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "Yes, this policy covers maternity expenses under Section 3.1.14, including medical treatment expenses related to childbirth and lawful medical termination of pregnancy, subject to a waiting period of 24 months and age limits (18-45 years). The policy also covers pre-natal and post-natal hospitalization expenses and vaccination for the new-born baby. The coverage is limited to two deliveries or terminations during the lifetime of the insured person, with a maximum of one delivery or termination per policy period."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in Section 4.2.f).i under the National Parivar Mediclaim Plus Policy. This waiting period applies unless the condition is a result of an accident. The coverage for cataract surgery is subject to the terms and conditions of the policy, with a limit of up to 15% of the Sum Insured or INR 60,000, whichever is lower, for Plan A."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers medical expenses for an organ donor's hospitalization during the policy period for harvesting the donated organ, provided the organ donation conforms to the Transplantation of Human Organs Act 1994 and its amendments. The expenses must be incurred as an in-patient in a hospital, and a claim must be admitted under the In-patient Treatment Section for the insured person undergoing the organ transplant (Section 3.1.7). Pre-hospitalization and post-hospitalization expenses of the organ donor, costs associated with acquiring the donor's organ, and medical expenses where the organ transplant is experimental or investigational are excluded."
+      },
+      {
+        "question": "What is the No Claim Discount (NCD) offered in this policy?",
+        "answer": "The No Claim Discount (NCD) offered in this policy is a flat 5% on the base premium, provided no claims are reported in the expiring policy. For policies with a term exceeding one year, the NCD amount is aggregated and allowed on renewal, not exceeding 5% of the total base premium for the term of the policy, as per Section 3.2.1."
+      },
+      {
+        "question": "Is there a benefit for preventive health check-ups?",
+        "answer": "Yes, the policy provides a benefit for health check-ups, which shall be reimbursed at the end of a block of two continuous policy years, provided the policy has been continuously renewed without a break (Section 3.2.2). The expenses payable are subject to the limit stated in the Table of Benefits. For example, under Plan A, the health check-up limit is up to INR 5,000 every 2 years."
+      },
+      {
+        "question": "How does the policy define a 'Hospital'?",
+        "answer": "According to the policy, a 'Hospital' is defined as any institution established for in-patient care and day care treatment of disease/injuries, registered as a hospital with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or complying with minimum criteria such as having qualified nursing staff, inpatient beds, qualified medical practitioners, and a fully equipped operation theatre (Section 2.22). The hospital must maintain daily records of patients and make them accessible to the Company's authorized personnel."
+      },
+      {
+        "question": "What is the extent of coverage for AYUSH treatments?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers AYUSH treatments under Section 3.1.6, with medical expenses indemnified up to the limit of the Sum Insured specified in the Policy Schedule, in any AYUSH Hospital. The policy covers Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines. The coverage is subject to the terms and conditions specified in the policy, including the definition of AYUSH Hospital and AYUSH Treatment under sections 2.6 and 2.7."
+      },
+      {
+        "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+        "answer": "For Plan A, the room rent is limited to \"Up to 1% of SI or actual, whichever is lower\" and ICU charges are limited to \"Up to 2% of SI or actual, whichever is lower\" as per the Table of Benefits. These limits are specified for each insured person per day. The exact limits depend on the chosen Sum Insured (SI) for Plan A."
+      }
+    ],
+    "summary": {
+      "total_questions": 10,
+      "successful_answers": 10,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:35:48"
+    }
+  },
+  {
+    "request_id": "ab7adedd",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Happy%20Family%20Floater%20-%202024%20OICHLIP25046V062425%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A24%3A30Z&se=2026-08-01T17%3A24%3A00Z&sr=b&sp=r&sig=VNMTTQUjdXGYb2F4Di4P0zNvmM2rTBoEHr%2BnkUXIqpQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "In the case of a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, what is the procedure for claim settlement, coordination, and required documentation?",
+        "answer": "In a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, the primary insurer shall seek details of other available policies of the policyholder and coordinate with other insurers to settle the balance amount as per policy conditions (Section 5.22). The insured person has the right to choose the primary insurer and claim the balance amount from other insurers (Section 5.22). The primary insurer will be responsible for coordinating with other insurers to ensure settlement of the balance amount without causing any hassle to the policyholder. The required documentation for claim settlement includes details of previous policies and other relevant information as required by the TPA/Company (Section 5.20)."
+      },
+      {
+        "question": "While checking the process for submitting a dental claim for a 23-year-old financially dependent daughter (who recently married and changed her surname), also confirm the process for updating her last name in the policy records and provide the company's grievance redressal email.",
+        "answer": "To submit a dental claim for the 23-year-old financially dependent daughter, the policyholder should provide the necessary claim documents, including original bills, receipts, and treatment records, to the Company/TPA within 15 days of discharge or treatment (Section 5.19). Since she is now married, her coverage under the policy is no longer valid as per Section A, which states that a female child can be covered until she gets married. To update her last name in the policy records, the policyholder should notify the Company in writing, and the change will be effective upon endorsement on the policy (Section 5.14). For grievance redressal, the policyholder can refer to the link: https://orientalinsurance.org.in/grievance-redressal or approach the Insurance Ombudsman (Section 5.13)."
+      },
+      {
+        "question": "Suppose the insured's hospitalization was for evaluation and all tests and imaging were negative, leading to a decision for no treatment. Are these expenses claimable? Discuss using definitions and exclusions.",
+        "answer": "Expenses related to hospitalization primarily for diagnostics and evaluation purposes are excluded under the policy as per Section 4.4 (Investigation & Evaluation – Code – ExcI04). Since all tests and imaging were negative and no treatment was administered, the hospitalization was for evaluation purposes only. Therefore, these expenses are not claimable. The policy specifically excludes expenses related to admissions primarily for diagnostics and evaluation purposes, making it clear that such claims will not be admissible."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:35:56"
+    }
+  },
+  {
+    "request_id": "69395ad0",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "Unfortunately, I don't have any information about the ppt you're referring to. Can you provide more context or details about the ppt, such as its title or content? I'll do my best to help you based on my general knowledge."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "Since I don't have any information about the presentation you're referring to, I'll need to clarify that I'm starting from a blank slate. However, I can guide you through a general approach to summarizing a presentation. To summarize the key points of a presentation, one would typically: 1. **Identify the main topic or thesis statement**: Understand the core idea or argument presented. 2. **Note key supporting points**: Identify the main arguments, data, or evidence used to support the thesis. 3. **Highlight important conclusions or recommendations**: Summarize the conclusions drawn from the information presented and any recommended actions or next steps. If you can provide more details or context about the presentation, such as its topic or any specific points you remember, I can help you apply this general approach to create a summary."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "Unfortunately, I don't have the specific presentation to refer to. However, I can guide you through a general approach to identifying key coverage areas of a typical presentation. When analyzing a presentation, key coverage areas often include: 1. **Introduction or Background**: An overview of the topic, its relevance, and the purpose of the presentation. 2. **Problem Statement or Context**: A description of the issue or context that the presentation aims to address. 3. **Main Arguments or Findings**: The core content of the presentation, which may include data, research findings, or key arguments related to the topic. 4. **Analysis or Discussion**: An in-depth examination of the topic, including any analysis of data, discussion of implications, or exploration of different perspectives. 5. **Solutions or Recommendations**: Suggestions or proposals for addressing the issue or problem presented. 6. **Conclusion or Summary**: A recap of the main points and takeaways from the presentation. To identify the key coverage areas of a specific presentation, you can look for these elements within the content. If you have more details about the presentation, such as its title or a brief description, I can offer more tailored insights."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:43:06"
+    }
+  },
+  {
+    "request_id": "30fd48ab",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy allows a grace period of 30 days for premium payment to maintain continuity of benefits without break in policy (Section 5.15.v). Coverage is not available during this grace period. The policy shall terminate at the end of the policy period if the premium is not paid within the specified grace period."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is thirty-six (36) months of continuous coverage after the date of inception of the first policy with the Company (Section 4.1.a). This waiting period can be reduced if the Insured Person has prior coverage under the portability norms of the extant IRDAI (Health Insurance) Regulations (Section 4.1.c). Coverage for PED is also subject to the condition that it was declared at the time of application and accepted by the Company (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "Yes, this policy covers maternity expenses, including pre-natal and post-natal hospitalization expenses, under Section 3.1.14 (Maternity). The coverage is subject to a waiting period of 24 months and is limited to the sum insured available to the mother during the corresponding policy period. The policy also covers expenses for necessary vaccination for the New Born Baby as part of maternity expenses. The maximum admissible amount for maternity expenses varies depending on the plan chosen, as shown in the Table of Benefits."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in Section 4.2.f).i under the National Parivar Mediclaim Plus Policy. This waiting period applies unless the condition is a result of an accident. The coverage for cataract surgery is subject to the sum insured and other policy terms. The limit for cataract surgery is up to 15% of SI or INR 60,000, whichever is lower, for Plan A, and up to SI for Plans B and C."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers medical expenses for an organ donor's hospitalization during the policy period for harvesting the donated organ, provided the organ donation conforms to the Transplantation of Human Organs Act 1994 and the insured person has been medically advised to undergo an organ transplant (Section 3.1.7). The policy will indemnify the medical expenses incurred in respect of the organ donor as an in-patient in a hospital, subject to the condition that a claim has been admitted under the In-patient Treatment Section for the insured person undergoing the organ transplant. Pre-hospitalization and post-hospitalization expenses of the organ donor are excluded."
+      },
+      {
+        "question": "What is the No Claim Discount (NCD) offered in this policy?",
+        "answer": "The No Claim Discount (NCD) offered in this policy is a flat 5% on the base premium, provided claims are not reported in the expiring policy. For policies with a term of one year, the NCD is 5% of the base premium, while for policies with a term exceeding one year, the NCD amount is aggregated and allowed on renewal, not exceeding 5% of the total base premium for the term of the policy (Section 3.2.1)."
+      },
+      {
+        "question": "Is there a benefit for preventive health check-ups?",
+        "answer": "Yes, the policy provides a benefit for health check-ups. Expenses for health check-ups are reimbursable at the end of a block of two continuous policy years, provided the policy has been continuously renewed without a break, subject to the limit stated in the Table of Benefits (Section 3.2.2). The specific limits for health check-ups vary by plan, ranging from INR 5,000 to INR 10,000."
+      },
+      {
+        "question": "How does the policy define a 'Hospital'?",
+        "answer": "The policy defines a 'Hospital' as any institution established for in-patient care and day care treatment of disease/injuries, registered with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or complying with minimum criteria such as having qualified nursing staff, inpatient beds, qualified medical practitioners, and a fully equipped operation theatre (Section 2.22). The hospital must maintain daily records of patients and make them accessible to the Company's authorized personnel."
+      },
+      {
+        "question": "What is the extent of coverage for AYUSH treatments?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers AYUSH treatments under Section 3.1.6, with medical expenses indemnified up to the limit of the Sum Insured specified in the Policy Schedule, in any AYUSH Hospital. The policy covers Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines. The coverage is subject to the terms and conditions of the policy, including the definition of AYUSH Hospital and AYUSH Treatment as per Sections 2.6 and 2.7."
+      },
+      {
+        "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+        "answer": "For Plan A, the room rent is limited to \"Up to 1% of SI or actual, whichever is lower\" and ICU charges are limited to \"Up to 2% of SI or actual, whichever is lower\" as per the Table of Benefits. These limits are specified for each insured person per day. The exact limits depend on the chosen Sum Insured (SI) for Plan A, which ranges from INR 6 Lac to INR 10 Lac."
+      }
+    ],
+    "summary": {
+      "total_questions": 10,
+      "successful_answers": 10,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:43:23"
+    }
+  },
+  {
+    "request_id": "4df19481",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Happy%20Family%20Floater%20-%202024%20OICHLIP25046V062425%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A24%3A30Z&se=2026-08-01T17%3A24%3A00Z&sr=b&sp=r&sig=VNMTTQUjdXGYb2F4Di4P0zNvmM2rTBoEHr%2BnkUXIqpQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "In the case of a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, what is the procedure for claim settlement, coordination, and required documentation?",
+        "answer": "In a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, the primary insurer shall seek details of other available policies of the policyholder and coordinate with other insurers to ensure settlement of the balance amount as per policy conditions (Section 5.22). The insured person has the right to choose the primary insurer and claim settlement will be made according to the terms and conditions of the chosen policy. The primary insurer will be responsible for settling the claim and coordinating with other insurers. The insured person is required to provide details of other available policies to the primary insurer."
+      },
+      {
+        "question": "While checking the process for submitting a dental claim for a 23-year-old financially dependent daughter (who recently married and changed her surname), also confirm the process for updating her last name in the policy records and provide the company's grievance redressal email.",
+        "answer": "To submit a dental claim for the 23-year-old financially dependent daughter, the policyholder should provide the necessary claim documents, including original bills, receipts, and discharge certificates, to the Company/TPA within 15 days of discharge from the Hospital/Nursing Home, as per Section 5.19. However, since she is now married, she is no longer eligible for coverage under the policy as per Section A, which states that a female child can be covered until she gets married. To update her last name in the policy records, the policyholder should communicate the change in writing to the Company, and such change will be effective only when an endorsement on the policy is made, as per Section 5.14. For grievance redressal, the policyholder can refer to the link: https://orientalinsurance.org.in/grievance-redressal."
+      },
+      {
+        "question": "Suppose the insured's hospitalization was for evaluation and all tests and imaging were negative, leading to a decision for no treatment. Are these expenses claimable? Discuss using definitions and exclusions.",
+        "answer": "Expenses related to hospitalization primarily for diagnostics and evaluation purposes are excluded under the policy as per Section 4.4 (Investigation & Evaluation – Code – ExcI04). Since all tests and imaging were negative and no treatment was given, the admission was primarily for evaluation, making the expenses non-claimable. The policy specifically excludes expenses for diagnostic purposes only, and this condition applies to the given scenario."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:43:38"
+    }
+  },
+  {
+    "request_id": "4ca58caa",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "questions_and_answers": [
+      {
+        "question": "When will my root canal claim of Rs 25,000 be settled?",
+        "answer": "As per Section 9.4 Claim Settlement (i), the Company shall settle or reject your claim within 15 days from the date of receipt of the last necessary document. If there is a delay, interest will be paid at a rate 2% above the bank rate as per Section 9.4 (ii). Additionally, a co-payment of 5% or 15% may be applicable depending on your age at policy inception as mentioned in Section 9.3 Co-payment."
+      },
+      {
+        "question": "I have done an IVF for Rs 56,000. Is it covered?",
+        "answer": "The expenses related to Assisted Reproduction services, including IVF, are excluded under Section 7.14 (Sterility and Infertility) of the policy. Therefore, your IVF expenses of Rupees 56,000 are not covered under the Arogya Sanjeevani Policy."
+      },
+      {
+        "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+        "answer": "The policy covers cataract treatment up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower (Section 4.3). Assuming your Sum Insured is more than Rs. 160,000 (since 25% of it would be more than Rs. 40,000), the maximum claim admissible for cataract treatment per eye is Rs. 40,000. Therefore, we will settle Rs. 40,000 for the cataract treatment, subject to the terms and conditions of the policy and applicable Co-pay (5% or 15% depending on your age)."
+      },
+      {
+        "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+        "answer": "To submit a claim for hospitalization due to heart surgery, the following documents are required: i. Duly completed claim form ii. Photo Identity proof of the patient iii. Medical practitioner's prescription advising admission iv. Original bills with itemized break-up v. Payment receipts vi. Discharge summary including complete medical history vii. Investigation/Diagnostic test reports viii. OT notes or Surgeon's certificate giving details of the operation performed ix. Sticker/Invoice of the Implants, wherever applicable x. NEFT Details and cancelled cheque xi. KYC (Identity proof with Address) of the proposer, if claim liability is above Rs. 1 Lakh xii. Any other relevant document required by Company/TPA for assessment of the claim (as per Section 9.2). Additionally, the claim should be submitted within 30 days of discharge from the hospital (as per Section 9.1.2)."
+      }
+    ],
+    "summary": {
+      "total_questions": 4,
+      "successful_answers": 4,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:43:50"
+    }
+  },
+  {
+    "request_id": "8cfd77b9",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "ട്രംപ് ഏത് ദിവസമാണ് 100% ശുൽകം പ്രഖ്യാപിച്ചത്?",
+        "answer": "2025 ഓഗസ്റ്റ് 6-നാണ് യുഎസ് പ്രസിഡന്റ് ഡോണൾഡ് ട്രംപ് വിദേശത്ത് നിർമ്മിച്ച കമ്പ്യൂട്ടർ ചിപ്പുകളുടെയും സെമികണ്ടക്ടറുകളുടെയും ഇറക്കുമതിക്ക് 100 ശതമാനം ശുല്ക്കം ഏർപ്പെടുത്തുമെന്ന് പ്രഖ്യാപിച്ചത്."
+      },
+      {
+        "question": "What was Apple’s investment commitment and what was its objective?",
+        "answer": "Apple's investment commitment was $600 billion. The objective of this significant investment was to boost confidence in the ongoing \"Chip War\" and potentially lead to protectionist responses. This move is part of a larger context where the US is trying to bolster its domestic semiconductor manufacturing and reduce dependence on foreign-made chips."
+      }
+    ],
+    "summary": {
+      "total_questions": 2,
+      "successful_answers": 2,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:43:56"
+    }
+  },
+  {
+    "request_id": "535abcb2",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is my train number?",
+        "answer": "There is no information about a train number in the provided context. The context discusses US trade policies, tariffs on imported computer chips and semiconductors, and a significant investment by Apple."
+      }
+    ],
+    "summary": {
+      "total_questions": 1,
+      "successful_answers": 1,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:03"
+    }
+  },
+  {
+    "request_id": "008f7fa0",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "The ideal spark plug gap recommended varies depending on the vehicle make, model, and engine type. Generally, the recommended spark plug gap can be found in the vehicle's owner's manual or on the manufacturer's website. Typically, the recommended spark plug gap for most modern vehicles ranges from 0.028 to 0.060 inches (0.7 to 1.5 mm). However, some high-performance engines may require a gap as small as 0.020 inches (0.5 mm) or as large as 0.080 inches (2 mm). Here are some general guidelines for spark plug gaps: * Most passenger vehicles: 0.035 to 0.045 inches (0.9 to 1.1 mm) * High-performance engines: 0.020 to 0.028 inches (0.5 to 0.7 mm) or 0.060 to 0.080 inches (1.5 to 2 mm) * Older vehicles or those with points-based ignition systems: 0.028 to 0.035 inches (0.7 to 0.9 mm) It's essential to consult the vehicle's manufacturer specifications to determine the ideal spark plug gap for a particular vehicle. Using a spark plug with a gap that is too large or too small can lead to poor engine performance, decreased fuel efficiency, and potentially damage the engine or ignition system. To ensure the correct spark plug gap, it's recommended to: 1. Check the owner's manual or manufacturer's website for the recommended spark plug gap. 2. Consult a repair manual or a professional mechanic if you're unsure. 3. Use a spark plug gap gauge to measure and adjust the gap as needed. By following these guidelines, you can ensure that your vehicle's spark plugs are properly gapped, which can help maintain optimal engine performance and longevity."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "To accurately answer whether a specific tire comes in a tubeless version, I would need to know the exact tire model or the vehicle it's intended for. However, I can provide general information on tubeless tires. Tubeless tires are designed to operate without an inner tube. Instead, the tire and rim form an airtight seal, and the tire is inflated with air directly into the tire cavity. Many modern vehicles, including cars, motorcycles, and bicycles, can be fitted with tubeless tires. The availability of tubeless versions depends on the tire manufacturer and the specific model. Many tire manufacturers produce tubeless versions of their tires, especially for popular sizes used in contemporary vehicles. If you're looking for a tubeless version of a specific tire, you should: 1. **Check the Tire Specifications**: Look for the tire's specifications on the manufacturer's website or on the tire's sidewall. Tires that are tubeless will typically be marked as \"TL\" or \"Tubeless.\" 2. **Consult with a Tire Professional**: Visit a tire shop or dealership and ask about the availability of tubeless versions for your specific tire size or vehicle. 3. **Verify Compatibility**: Ensure that your vehicle's rims are compatible with tubeless tires. Tubeless tires require rims that are designed to be airtight when used with a tubeless tire. In summary, many tires are available in tubeless versions, but the availability can vary based on the tire model, size, and manufacturer. Checking the specifications or consulting with a professional is the best way to determine if a tubeless version of a specific tire is available."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "No, it is not compulsory to have a disc brake. The necessity of disc brakes depends on various factors including the type of vehicle, its intended use, and local regulations. In many jurisdictions, the requirement for disc brakes is dictated by safety standards and regulations that vary by country or region. For example: 1. **Motorcycles and Bicycles**: For high-performance bicycles and motorcycles, disc brakes are often preferred due to their superior stopping power, especially in wet conditions. However, rim brakes are still common on many bicycles, particularly those that are not high-performance or are designed for casual riding. 2. **Cars**: In the automotive world, the use of disc brakes has become standard on the front wheels of most vehicles due to their effectiveness. Many modern vehicles also use disc brakes on the rear wheels. However, some smaller or older vehicles might still use drum brakes on the rear axle. 3. **Regulatory Requirements**: In many countries, there are regulations that dictate the minimum braking performance requirements for vehicles. While these regulations might not explicitly require disc brakes, they often necessitate braking performance that is more easily achieved with disc brakes, especially for heavier or higher-speed vehicles. 4. **Heavy Vehicles**: For heavy vehicles like trucks and buses, the use of disc brakes or air disc brakes is becoming more common due to their reliability and performance under heavy use. However, some may still use other types of braking systems. In summary, while disc brakes offer significant advantages in terms of stopping power and reliability, especially under certain conditions, they are not universally compulsory. The choice between disc brakes and other types of braking systems depends on the specific application, vehicle design, and regulatory requirements."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "No, you cannot put Thums Up (a cola brand) instead of oil. Thums Up is a carbonated soft drink, and it is not a suitable substitute for oil in any context, such as cooking or lubricating mechanical parts. Oil is used for various purposes like cooking, lubrication, or as a fuel, depending on the type of oil. Thums Up, being a soft drink, does not have the same properties or functions as oil. Using Thums Up in place of oil would not achieve the desired outcome and could potentially cause problems or damage. If you're looking for alternatives to a specific type of oil, there are other oils or substances that might be suitable, depending on the intended use. However, Thums Up is not a viable or appropriate substitute."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "Here's a simple JavaScript code snippet that generates a random number between 1 and 100: ```javascript function generateRandomNumber(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; } const randomNumber = generateRandomNumber(1, 100); console.log(randomNumber); ``` ### Explanation: - `Math.random()` generates a random number between 0 (inclusive) and 1 (exclusive). - `Math.random() * (max - min + 1)` scales this to the desired range size (100 - 1 + 1 = 100 in this case), resulting in a number between 0 and 100. - `Math.floor(...)` rounds down to the nearest whole number, giving a number between 0 and 100. - Adding `min` shifts the range to the desired interval, so for `min = 1` and `max = 100`, you get a number between 1 and 100. ### Usage: You can call `generateRandomNumber(1, 100)` whenever you need a random number within this range. The result is stored in `randomNumber` and logged to the console. To directly generate a random number between 1 and 100 without using a function, you can simplify the code to: ```javascript const randomNumber = Math.floor(Math.random() * 100) + 1; console.log(randomNumber); ```."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:13"
+    }
+  },
+  {
+    "request_id": "c3d82808",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "There is no mention of the \"National Parivar Mediclaim Plus Policy\" in the provided document. However, according to Section IV and V of the document, the premium due must be paid by the proposer to the company before the due date, and renewal of the policy is not automatic (Section IV). It is stated that \"Premium due must be paid by the proposer to the company before the due date\" (Section V), indicating no specific grace period is mentioned in the document."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is 36 months, as stated in Section 4.1 (d) and defined in Section 3.15. This means that coverage under the policy for any pre-existing disease is subject to the condition being declared at the time of application and accepted by the insurer or its reinstatement after 36 months. If the insured person is continuously covered without any break, the waiting period is reduced to the extent of prior coverage (Section 4.1 c)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "This policy covers maternity expenses under the \"Maternity Expenses and Newborn Child Cover Benefit Extension\" clause (Section 2C). To be eligible, this optional cover must be obtained on payment of 10% of the total basic premium for all insured persons (Section 2C.a). The policy has specific conditions, such as a 9-month waiting period for normal delivery or caesarean section (Section 2C.b), and it only covers expenses incurred in a hospital/nursing home as an in-patient in India (Section 2C.a). The maximum benefit allowable is up to Rs. 50,000 (Section 2C.e)."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in the policy document under section 4.1 (f), which lists various ailments and their corresponding waiting periods (Section 4.1, point vii). This implies that expenses related to cataract surgery are not payable during the initial 2 years of the policy, unless the policy is renewed without a break or ported from another insurer, in which case the waiting period may be reduced (Section 4.1, point e)."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "Yes, hospitalization expenses incurred for donating an organ to the insured person during the course of organ transplant are covered under this policy (as stated in \"Note: 1\" of the policy document). However, the cost of the organ itself is excluded, and the liability of the Company is limited to the overall Sum Insured of the Insured Person."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:25"
+    }
+  },
+  {
+    "request_id": "7f3413d5",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the official name of India according to Article 1 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about the official name of India according to Article 1 of the Constitution. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+        "answer": "The provided spreadsheet context does not contain information about articles or laws. However, it is worth noting that according to the Indian Constitution, Article 14 guarantees equality before the law and equal protection of laws to all persons. The data in the spreadsheet is related to individuals, their mobile numbers, pincodes, and salaries. For example, the 'Name' column contains various names such as Aarav Sharma, Priya Patel, and Vikram Singh."
+      },
+      {
+        "question": "What is abolished by Article 17 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about Article 17 of the Constitution. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+        "answer": "There is no information about the Preamble of the Constitution of India in the provided spreadsheet context. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+        "answer": "Not applicable as the provided context is related to Excel spreadsheet analysis and does not contain information about Articles related to altering state boundaries. However, based on general knowledge, the answer is Article 3."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:32"
+    }
+  },
+  {
+    "request_id": "136bee0b",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Pincode%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A50%3A43Z&se=2026-08-05T18%3A50%3A00Z&sr=b&sp=r&sig=xf95kP3RtMtkirtUMFZn%2FFNai6sWHarZsTcvx8ka9mI%3D",
+    "questions_and_answers": [
+      {
+        "question": "If my car is stolen, what case will it be in law?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If I am arrested without a warrant, is that legal?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If someone denies me a job because of my caste, is that allowed?",
+        "answer": "The provided spreadsheet context does not contain information related to caste or job denial. The data appears to be a list of individuals with their mobile numbers, pincodes, and salaries. For example, the first few rows contain data for Aarav Sharma with a pincode of 110001 and a salary of 75000. The table structure includes columns for Name, Mobile Number, Pincode, and Salary."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:40"
+    }
+  },
+  {
+    "request_id": "8169a25a",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D",
+    "questions_and_answers": [
+      {
+        "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+        "answer": "The provided OCR extracted text does not contain any information related to Newton's definition of 'quantity of motion' or 'force'. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      },
+      {
+        "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+        "answer": "There is no information in the provided OCR extracted text related to Newton's laws of motion or celestial mechanics. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      },
+      {
+        "question": "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+        "answer": "There is no information in the provided OCR extracted text related to Newton's derivation of Kepler's Second Law or his laws of motion and gravitation. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:44:53"
+    }
+  },
+  {
+    "request_id": "1589a76b",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "The ideal spark plug gap recommended varies depending on the vehicle make, model, and year, as well as the type of spark plugs used. Generally, the recommended spark plug gap can be found in the vehicle's owner's manual or on a placard under the hood. Typically, the recommended spark plug gap for most modern vehicles ranges from 0.028 to 0.060 inches (0.7 to 1.5 mm). However, some vehicles may require a gap as small as 0.020 inches (0.5 mm) or as large as 0.080 inches (2 mm). Here are some general guidelines for spark plug gaps: * Most modern vehicles with electronic ignition systems: 0.028 to 0.040 inches (0.7 to 1 mm) * Older vehicles with points-based ignition systems: 0.035 to 0.045 inches (0.9 to 1.1 mm) * High-performance vehicles: 0.020 to 0.028 inches (0.5 to 0.7 mm) * Racing engines: 0.010 to 0.020 inches (0.25 to 0.5 mm) It's essential to check the recommended spark plug gap for your specific vehicle to ensure proper engine performance, fuel efficiency, and to prevent damage to the engine or ignition system. In summary, the ideal spark plug gap is the one specified by the vehicle manufacturer, and it's crucial to consult the owner's manual or a reliable repair manual to determine the correct gap for your vehicle."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "To accurately answer whether a specific tire comes in a tubeless version, I would need to know the exact tire model or the vehicle it's intended for. However, I can provide general information on tubeless tires. Tubeless tires are designed to operate without an inner tube. Instead, the tire and rim form an airtight seal, and the tire is inflated with air directly into the tire cavity. Many modern vehicles, including cars, motorcycles, and bicycles, can be fitted with tubeless tires. Most tire manufacturers produce tubeless versions of their tires, especially for newer vehicles. The trend towards tubeless tires has been driven by their advantages, which include: 1. **Reduced Risk of Sudden Deflation:** Since there's no tube, punctures from objects like nails might not lead to immediate deflation, as the tire can sometimes seal around the object. 2. **Less Weight:** Tubeless setups can be lighter because they eliminate the need for an inner tube. 3. **Better Heat Dissipation:** Without an inner tube, there's potentially better heat dissipation, which can be beneficial during prolonged high-speed driving. To determine if a specific tire model comes in a tubeless version, you should: 1. **Check the Tire Sidewall:** Tubeless tires are usually marked as \"Tubeless\" or \"TL\" on the sidewall. 2. **Consult the Manufacturer's Documentation:** The tire manufacturer's website or documentation can provide information on whether a specific model is available in a tubeless version. 3. **Contact a Tire Dealer or the Vehicle Manufacturer:** For specific advice tailored to your vehicle, consulting with a tire professional or the vehicle's manufacturer can provide clarity. In summary, many tires are available in tubeless versions, but the availability depends on the specific tire model and its intended use."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "In many jurisdictions, it is not compulsory to have a disc brake on all vehicles, but there are regulations and standards that govern the use of braking systems, including disc brakes, on various types of vehicles. For example: 1. **Motorcycles**: In many countries, including the United States and those in the European Union, there are regulations that require motorcycles to be equipped with certain safety features, including brakes that meet specific performance standards. While disc brakes are common on modern motorcycles due to their superior stopping power and heat dissipation compared to drum brakes, the specific requirement can depend on the motorcycle's category, engine size, and intended use. 2. **Cars and Light Vehicles**: For cars and light vehicles, regulations vary by jurisdiction. In many places, the regulations specify performance requirements for braking systems rather than mandating specific types like disc brakes. However, most modern cars are equipped with disc brakes at the front, and many also have disc brakes at the rear, due to their effectiveness. 3. **Bicycles**: For bicycles, the requirement for disc brakes versus rim brakes or other types varies. Some jurisdictions or regulatory bodies (like those governing certain types of bicycle racing) may specify or recommend the use of disc brakes due to their performance in wet conditions and their ability to manage heat during prolonged braking. However, there is no universal legal requirement for disc brakes on bicycles. 4. **Heavy Vehicles and Trucks**: For heavy vehicles and trucks, regulations often require robust braking systems capable of handling the vehicle's weight and load. Disc brakes or drum brakes with additional safety features (like ABS - Anti-lock Braking System) are typically mandated. The necessity of having a disc brake depends on various factors including: - **Vehicle Type**: Different types of vehicles have different braking requirements based on their weight, speed, and usage. - **Jurisdictional Regulations**: Laws and regulations regarding vehicle equipment vary significantly around the world and even within regions. - **Safety Standards**: Many safety standards recommend or require advanced braking systems for certain categories of vehicles. In summary, while disc brakes offer significant safety advantages and are widely adopted in modern vehicles, whether it is compulsory to have a disc brake depends on the specific vehicle type and the jurisdiction in which it is used or registered."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "No, you cannot put Thums Up (a cola-flavored soft drink) instead of oil. Thums Up is a carbonated beverage that is not suitable for use as a lubricant or fuel. Oil, on the other hand, is a viscous liquid used for lubrication, fuel, or other industrial purposes. Using Thums Up in place of oil would not provide the necessary lubrication or fuel properties, and it could potentially cause damage to machinery or engines. Additionally, Thums Up is not designed to be used in high-temperature or high-pressure applications, which is often the case when oil is used. If you're looking for a substitute for oil, you should consider using a different type of oil or lubricant that is specifically designed for the intended application. It's not recommended to use a soft drink like Thums Up as a replacement for oil."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "To generate a random number between 1 and 100 in JavaScript, you can use the `Math.random()` function, which returns a random number between 0 (inclusive) and 1 (exclusive). You then scale this number to the desired range. Here's how you can do it: ```javascript function getRandomNumber(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; } const randomNumber = getRandomNumber(1, 100); console.log(randomNumber); ``` In this code: - `Math.random()` generates a random number between 0 and 1. - `Math.random() * (max - min + 1)` scales this to a number between 0 and the range (`max - min + 1`), so for `min = 1` and `max = 100`, it gives a number between 0 and 100. - `Math.floor(...)` rounds down to the nearest whole number, giving a number between 0 and `max - min`. - Adding `min` shifts this range to between `min` and `max`, so for `min = 1` and `max = 100`, you get a number between 1 and 100. You can directly use the formula for your specific case (between 1 and 100) like so: ```javascript const randomNumber = Math.floor(Math.random() * 100) + 1; console.log(randomNumber); ```."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:45:06"
+    }
+  },
+  {
+    "request_id": "2a3142bb",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D",
+    "questions_and_answers": [
+      {
+        "question": "If an insured person takes treatment for arthritis at home because no hospital beds are available, under what circumstances would these expenses NOT be covered, even if a doctor declares the treatment was medically required?",
+        "answer": "There is no relevant information in the provided document context regarding insurance coverage or medical treatment for arthritis. The document appears to be a collection of factually incorrect statements on various topics. As such, it is not possible to extract relevant information to answer the question comprehensively."
+      },
+      {
+        "question": "A claim was lodged for expenses on a prosthetic device after a hip replacement surgery. The hospital bill also includes the cost of a walker and a lumbar belt post-discharge. Which items are payable?",
+        "answer": "According to the provided document context, there is no relevant information regarding hospital bills, prosthetic devices, or medical expenses. However, we can infer that the task requires an external knowledge or standard medical billing practices, which are not available in the given context. Nevertheless, typically, expenses related to a prosthetic device, walker, and lumbar belt are considered payable after a hip replacement surgery as they are related to the treatment and post-operative care (noting that this is not based on the provided context but general knowledge). The document does not provide any information to support or refute this claim."
+      },
+      {
+        "question": "An insured's child (a dependent above 18 but under 26, unemployed and unmarried) requires dental surgery after an accident. What is the claim admissibility, considering both eligibility and dental exclusions, and what is the process for this specific scenario?",
+        "answer": "There is no information in the provided document context regarding insurance claims, eligibility, dental exclusions, or the process for handling such claims. The document appears to contain a list of factually incorrect statements on various topics. As there is no relevant information, it is not possible to determine the claim admissibility or the process for the described scenario (N/A - No relevant sections)."
+      },
+      {
+        "question": "If an insured undergoes Intra Operative Neuro Monitoring (IONM) during brain surgery, and also needs ICU care in a city over 1 million population, how are the respective expenses limited according to modern treatments, critical care definition, and policy schedule?",
+        "answer": "There is no relevant information in the provided document context regarding Intra Operative Neuro Monitoring (IONM), Intensive Care Unit (ICU) care, modern treatments, critical care definition, or policy schedule. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine the respective expenses or limitations based on this context (Reference: entire document)."
+      },
+      {
+        "question": "A policyholder requests to add their newly-adopted child as a dependent. The child is 3 years old. What is the process and under what circumstances may the insurer refuse cover for the child, referencing eligibility and addition/deletion clauses?",
+        "answer": "There is no relevant information in the provided document context regarding insurance policies, eligibility, or addition/deletion clauses. The document appears to contain a series of factually incorrect statements on various topics. As such, it is not possible to determine the process for adding a dependent child or the circumstances under which an insurer may refuse cover based on this context."
+      },
+      {
+        "question": "If a person is hospitalised for a day care cataract procedure and after two weeks develops complications requiring 5 days of inpatient care in a non-network hospital, describe the claim process for both events, referencing claim notification timelines and document requirements.",
+        "answer": "There is no relevant information in the provided document context regarding the claim process for hospitalization or medical procedures. The document appears to contain a collection of factually incorrect statements on various subjects. As a result, it is not possible to extract information related to the claim process or medical procedures from this document. Therefore, the question cannot be answered based on the provided context."
+      },
+      {
+        "question": "An insured mother with cover opted for maternity is admitted for a complicated C-section but sadly, the newborn expires within 24 hours requiring separate intensive care. What is the claim eligibility for the newborn's treatment expenses, referencing definitions, exclusions, and newborn cover terms?",
+        "answer": "There is no information in the provided document context related to insurance claims, maternity cover, or newborn care. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine claim eligibility for the newborn's treatment expenses based on this context. Therefore, the question cannot be answered using the provided document."
+      }
+    ],
+    "summary": {
+      "total_questions": 7,
+      "successful_answers": 7,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:45:27"
+    }
+  },
+  {
+    "request_id": "3953c70f",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "Unfortunately, I don't have any information about the ppt you're referring to. Can you provide more context or details about the ppt, such as its title or content? That way, I can try to help you understand what it's about."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "Since I don't have access to the presentation you're referring to, I'll need to clarify that I won't be able to summarize its key points directly. However, I can guide you through a general approach to summarizing a presentation, which you can apply to the one you're interested in. To summarize a presentation, consider the following steps: 1. **Identify the main topic or thesis statement**: Understand the central idea or argument the presenter is making. 2. **Note key supporting points**: Identify the main arguments, data, or evidence presented to support the thesis. 3. **Highlight important conclusions or recommendations**: Summarize any conclusions drawn or recommendations made based on the information presented. 4. **Consider any visual aids or data**: If the presentation included slides, graphs, or charts, note any significant information they conveyed. 5. **Review the introduction and conclusion**: Often, these sections contain a summary of the main points. If you can provide more details or context about the presentation, such as its topic or any specific points you're interested in, I can offer more tailored guidance on how to approach summarizing it."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "Unfortunately, I don't have any information about the presentation you're referring to. However, I can guide you through a general approach to identifying key coverage areas of a presentation. When discussing key coverage areas of a presentation, we're typically looking at the main topics or themes that the presentation addresses. Here are some steps you could take to identify these areas: 1. **Review the Presentation Title and Introduction**: Often, the title and introduction of a presentation give clues about its main themes. 2. **Look at the Outline or Agenda**: Many presentations start with an outline or agenda slide that lists the main topics to be covered. 3. **Identify Key Sections or Chapters**: If the presentation is structured into clear sections or chapters, each of these likely represents a key coverage area. 4. **Note Any Repeated or Emphasized Topics**: Topics that are revisited or emphasized throughout the presentation are likely key coverage areas. 5. **Consider the Conclusion**: The conclusion often summarizes the main points, which can help identify the key coverage areas. Some common key coverage areas in presentations across various fields include: - **Problem Statement and Context**: Understanding the issue or challenge being addressed. - **Methodology or Approach**: How the problem is being tackled or the subject is being explored. - **Key Findings or Results**: The main discoveries or outcomes related to the topic. - **Analysis or Discussion**: Interpretation of the findings and their implications. - **Recommendations or Next Steps**: Actions suggested based on the findings or conclusions drawn. Without more specific details about the presentation, it's challenging to provide a more tailored answer. If you have any additional information or context about the presentation, I'd be happy to try and assist further."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:45:43"
+    }
+  },
+  {
+    "request_id": "8ec906ad",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy allows a grace period of 30 days for premium payment to maintain continuity of benefits without break in policy (Section 5.15.v). Coverage is not available during this grace period. The policy shall terminate at the end of the policy period if the premium is not paid before the end of the policy period or within the grace period."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is thirty-six (36) months of continuous coverage after the date of inception of the first policy with the Company (Section 4.1.a). This waiting period can be reduced if the Insured Person has prior coverage under a health insurance policy without a break, as per the portability norms of the extant IRDAI (Health Insurance) Regulations (Section 4.1.c). The PED is also subject to being declared at the time of application and accepted by the Company (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "The policy covers maternity expenses, including pre-natal and post-natal hospitalization expenses, up to the limit shown in the Table of Benefits (Section 3.1.14). The female insured person must have been continuously covered for at least 24 months to be eligible for this benefit. The policy also covers expenses for the new-born baby from birth, automatically, for up to 3 months (Section 3.1.14). Exclusions apply, such as delivery or termination within a waiting period of 24 months, and more than one delivery or termination during a single policy period (Exclusions under Section 3.1.14)."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in Section 4.2.f).i under the National Parivar Mediclaim Plus Policy. This waiting period applies unless the condition is a result of an accident. The coverage for cataract surgery is subject to the limits specified in the Table of Benefits, with a maximum limit of up to 15% of the Sum Insured or INR 60,000, whichever is lower, for Plan A."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers medical expenses for an organ donor's hospitalization during the policy period for harvesting the donated organ, provided the organ donation conforms to the Transplantation of Human Organs Act 1994 and its amendments. The expenses must be incurred as an in-patient in a hospital, and a claim must be admitted under the In-patient Treatment Section for the insured person undergoing the organ transplant (Section 3.1.7). However, pre-hospitalization and post-hospitalization expenses of the organ donor, costs associated with acquiring the donor's organ, and medical expenses where the organ transplant is experimental or investigational are excluded."
+      },
+      {
+        "question": "What is the No Claim Discount (NCD) offered in this policy?",
+        "answer": "The No Claim Discount (NCD) offered in this policy is a flat 5% on the base premium, provided claims are not reported in the expiring policy. For policies with a term of one year, the NCD is 5% of the base premium, while for policies with a term exceeding one year, the NCD amount is aggregated and allowed on renewal, not exceeding 5% of the total base premium for the term of the policy (Section 3.2.1)."
+      },
+      {
+        "question": "Is there a benefit for preventive health check-ups?",
+        "answer": "Yes, the policy provides a benefit for health check-ups. Expenses for health check-ups are reimbursable at the end of a block of two continuous policy years, provided the policy has been continuously renewed without a break, subject to the limit stated in the Table of Benefits (Section 3.2.2). The limits for health check-ups vary across plans, with Plan A offering up to INR 5,000, Plan B up to INR 7,500, and Plan C up to INR 10,000."
+      },
+      {
+        "question": "How does the policy define a 'Hospital'?",
+        "answer": "A 'Hospital' is defined as any institution established for in-patient care and day care treatment of disease/injuries, registered as a hospital with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or complying with minimum criteria such as having qualified nursing staff, inpatient beds, qualified medical practitioners, and a fully equipped operation theatre (Section 2.22). The hospital must maintain daily records of patients and make them accessible to the Company's authorized personnel."
+      },
+      {
+        "question": "What is the extent of coverage for AYUSH treatments?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers AYUSH treatments under Section 3.1.6, with medical expenses indemnified up to the limit of the Sum Insured specified in the Policy Schedule, in any AYUSH Hospital that meets the specified criteria (Section 2.7). The coverage includes inpatient care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines. The AYUSH treatment is covered up to the Sum Insured, as stated in the Table of Benefits."
+      },
+      {
+        "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+        "answer": "For Plan A, the room rent is limited to \"Up to 1% of SI or actual, whichever is lower\" and ICU charges are limited to \"Up to 2% of SI or actual, whichever is lower\" as per the Table of Benefits. These limits are specified for each insured person per day. The exact limits depend on the chosen Sum Insured (SI) for Plan A, which ranges from INR 6 Lac to INR 10 Lac."
+      }
+    ],
+    "summary": {
+      "total_questions": 10,
+      "successful_answers": 10,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:45:53"
+    }
+  },
+  {
+    "request_id": "5eb2807b",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Happy%20Family%20Floater%20-%202024%20OICHLIP25046V062425%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A24%3A30Z&se=2026-08-01T17%3A24%3A00Z&sr=b&sp=r&sig=VNMTTQUjdXGYb2F4Di4P0zNvmM2rTBoEHr%2BnkUXIqpQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "In the case of a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, what is the procedure for claim settlement, coordination, and required documentation?",
+        "answer": "In a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, the primary insurer shall seek details of other available policies of the policyholder and coordinate with other insurers to settle the balance amount as per policy conditions (Section 5.22). The insured person has the right to choose the primary insurer and claim settlement will be done according to the terms and conditions of the chosen policy. The primary insurer will be responsible for coordinating with other insurers to ensure settlement of the balance amount without causing any hassle to the policyholder. Relevant documentation, including details of previous policies, will be required to be submitted to the primary insurer (Section 5.19)."
+      },
+      {
+        "question": "While checking the process for submitting a dental claim for a 23-year-old financially dependent daughter (who recently married and changed her surname), also confirm the process for updating her last name in the policy records and provide the company's grievance redressal email.",
+        "answer": "To submit a dental claim for the 23-year-old financially dependent daughter, the policyholder should provide the required claim documents, including original bills, receipts, and discharge certificates, to the Company/TPA within 15 days of discharge from the Hospital/Nursing Home, as per Section 5.19. However, since she is now married, she is no longer eligible for coverage under the policy as per Section A (Dependent Children), which states that a female child is covered until she gets married. To update her last name in the policy records, the policyholder should communicate the change in writing to the Company, and such change will be effective only when an endorsement on the policy is made, as per Section 5.14 (NOMINATION). For grievance redressal, the policyholder can refer to the link: https://orientalinsurance.org.in/grievance-redressal or approach the Insurance Ombudsman, as per Section 5.13."
+      },
+      {
+        "question": "Suppose the insured's hospitalization was for evaluation and all tests and imaging were negative, leading to a decision for no treatment. Are these expenses claimable? Discuss using definitions and exclusions.",
+        "answer": "Expenses related to hospitalization primarily for diagnostics and evaluation purposes are excluded under the policy as per Section 4.4 (Investigation & Evaluation – Code – ExcI04). Since all tests and imaging were negative and no treatment was given, the admission was primarily for evaluation, making the expenses non-claimable. The policy specifically excludes expenses for diagnostic purposes only, and this condition applies to the given scenario."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 10:46:01"
+    }
+  },
+  {
+    "request_id": "2a43de32",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "This presentation is about a health insurance policy provided by Oriental Insurance, outlining its coverage, benefits, and terms. The policy offers comprehensive medical expense protection, including hospitalization, domiciliary hospitalization, and specialized medical coverage. Key aspects include coverage details, reimbursement processes, exclusions, and policy conditions (as seen in slides such as \"Policy Overview\", \"Coverage Basics\", and \"Exclusions Waiting Periods\")."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "The presentation outlines a comprehensive insurance policy covering medical expenses arising from illness or accidental injury. Key points include coverage basics, such as named insured persons and annual premium payments (Slide: Coverage Basics), and service delivery through Third Party Administrators (TPAs) and direct company services (Slide: Service Delivery). The policy covers hospitalization expenses, domiciliary hospitalization, and reimbursable medical expenses, with specific conditions and exclusions, such as pre-existing diseases waiting periods and general waiting periods (Slides: Hospitalization Expenses, Domiciliary Hospitalization, and Exclusions Waiting Periods)."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "The key coverage areas of this presentation include hospitalization expenses for medical and surgical treatments, domiciliary hospitalization benefits for home treatment when hospital admission is not possible, and specialized medical coverage areas such as HIV/AIDS, mental illness, and advanced procedures. Additionally, the policy covers medical fees, room services, and ambulance services. The coverage is subject to certain limits, such as the sum insured amount, and specific conditions and expenses are excluded. (Reference: Slides on \"Hospitalization Expenses\", \"Domiciliary Hospitalization\", and \"Specialized Medical Coverage Areas\")."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:18:00"
+    }
+  },
+  {
+    "request_id": "d8daa76e",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "ട്രംപ് ഏത് ദിവസമാണ് 100% ശുൽകം പ്രഖ്യാപിച്ചത്?",
+        "answer": "2025 ഓഗസ്റ്റ് 6-നാണ് യുഎസ് പ്രസിഡന്റ് ഡൊണാൾഡ് ട്രംപ് വിദേശത്ത് നിർമ്മിച്ച കമ്പ്യൂട്ടർ ചിപ്പുകളുടെയും സെമികണ്ടക്ടറുകളുടെയും ഇറക്കുമതിക്ക് 100 ശതമാനം ശുല്ക്കം ഏർപ്പെടുത്തുമെന്ന് പ്രഖ്യാപിച്ചത്."
+      },
+      {
+        "question": "What was Apple’s investment commitment and what was its objective?",
+        "answer": "Apple's investment commitment was $600 billion. The objective of this significant investment was to boost its ongoing efforts and potentially invite counter-responses related to trade. This investment aligns with the broader context of reshoring manufacturing and reducing foreign dependency, as highlighted by the US President's announcement. The investment is likely to further enhance Apple's presence in the US."
+      }
+    ],
+    "summary": {
+      "total_questions": 2,
+      "successful_answers": 2,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:18:07"
+    }
+  },
+  {
+    "request_id": "4a448046",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D",
+    "questions_and_answers": [
+      {
+        "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+        "answer": "The provided OCR extracted text does not contain any information related to Newton's definition of 'quantity of motion' or 'force'. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the given context."
+      },
+      {
+        "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+        "answer": "There is no information about Newton's laws of motion or celestial mechanics in the provided OCR extracted text. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Image processing limitations do not affect the answer as the text is unrelated to the question."
+      },
+      {
+        "question": "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+        "answer": "There is no information in the provided OCR extracted text related to Newton's derivation of Kepler's Second Law, as the text appears to be discussing insurance policies and medical expenses. The visual content is likely a table or list detailing sum insured slabs and corresponding limits for various medical expenses. Image processing limitations do not affect the answer as the text is unrelated to the question."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:18:14"
+    }
+  },
+  {
+    "request_id": "93d43d6b",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is this ppt about?",
+        "answer": "This presentation is about a health insurance policy provided by Oriental Insurance, detailing its coverage, benefits, exclusions, and claims process. The policy offers comprehensive medical expense coverage, including hospitalization, domiciliary hospitalization, and specialized medical coverage. Key aspects include coverage details, reimbursement processes, and policy conditions. The presentation also highlights grievance redressal support and communication channels (Slides: \"Policy Overview\", \"Coverage Basics\", \"Grievance Process\", and \"Contact Grievance Redressal Support\")."
+      },
+      {
+        "question": "Can you summarize the key points of this presentation?",
+        "answer": "The presentation outlines a comprehensive insurance policy covering medical expenses arising from illness or accidental injury. Key points include coverage basics, such as named insured persons and annual premium payments (Slide: Coverage Basics), and service delivery through Third Party Administrators (TPAs) and direct company services (Slide: Service Delivery). The policy covers hospitalization expenses, domiciliary hospitalization, and various medical expenses, including room services, medical fees, and additional services like ambulance services (Slides: Hospitalization Expenses, Domiciliary Hospitalization, Room Services). The policy also includes specialized coverage areas, such as HIV/AIDS, mental illness, and advanced procedures (Slide: Specialized Medical Coverage Areas), as well as important exclusions and waiting periods (Slides: Important Exclusions, Exclusions Waiting Periods). Other key aspects include policy conditions, such as claim notification requirements and cashless facility availability (Slide: Policy Conditions Requirements), and additional policy provisions, like premium adjustments and policy flexibility (Slide: Additional Policy Provisions Benefits)."
+      },
+      {
+        "question": "Tell me about key coverage areas of this presentation.",
+        "answer": "The key coverage areas of this presentation include hospitalization expenses for medical and surgical treatments, domiciliary hospitalization for home treatment when hospital admission is not possible, and specialized medical coverage areas such as HIV/AIDS, mental illness, and advanced procedures. Additionally, the policy covers medical fees, room services, and ambulance services. The presentation also highlights optional maternity coverage and telemedicine benefits, with specific coverage limits and requirements (Slides \"Coverage Basics\", \"Domiciliary Hospitalization\", \"Specialized Medical Coverage Areas\", and \"Telemedicine Maternity Benefits\")."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:19:54"
+    }
+  },
+  {
+    "request_id": "1870553b",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy allows a 30-day grace period for premium payment to maintain continuity of benefits without a break in policy (Section 5.15.v). Coverage is not available during this grace period. The policyholder must pay the renewal premium within this 30-day period to continue the policy."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is 36 months of continuous coverage after the date of inception of the first policy with the Company (Section 4.1.a). This waiting period can be reduced if the Insured Person has prior coverage without a break, as per the portability norms of the extant IRDAI (Health Insurance) Regulations (Section 4.1.c). The PED is also subject to being declared at the time of application and accepted by the Company (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers maternity expenses, including pre-natal and post-natal hospitalization expenses, up to the limit shown in the Table of Benefits (Section 3.1.14). The female insured person must have been continuously covered for at least 24 months to be eligible for this benefit. The policy also covers expenses for the new-born baby from birth, automatically, for up to 3 months (Section 3.1.14). Exclusions apply, such as delivery or termination within a waiting period of 24 months, and more than two deliveries or terminations during the lifetime of the insured person (Exclusions under Section 3.1.14)."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in Section 4.2.f).i under the National Parivar Mediclaim Plus Policy. This waiting period applies unless the condition is a result of an accident. The coverage for cataract surgery is subject to the sum insured and other policy terms. The limit for cataract surgery is up to 15% of SI or INR 60,000, whichever is lower, for Plan A, and up to SI for Plans B and C."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers medical expenses for an organ donor's hospitalization during the policy period for harvesting the donated organ, provided the organ donation conforms to the Transplantation of Human Organs Act 1994 and its amendments. The expenses must be incurred as an in-patient in a hospital, and a claim must be admitted under the In-patient Treatment Section for the insured person undergoing the organ transplant (Section 3.1.7). However, pre-hospitalization and post-hospitalization expenses of the organ donor, costs associated with acquiring the donor's organ, and medical expenses where the organ transplant is experimental or investigational are excluded."
+      },
+      {
+        "question": "What is the No Claim Discount (NCD) offered in this policy?",
+        "answer": "The No Claim Discount (NCD) offered in this policy is a flat 5% on the base premium, provided no claims are reported in the expiring policy. For policies with a term of one year, the NCD is applied directly, while for policies with a term exceeding one year, the NCD amount is aggregated and allowed on renewal, not exceeding 5% of the total base premium for the term of the policy (Section 3.2.1)."
+      },
+      {
+        "question": "Is there a benefit for preventive health check-ups?",
+        "answer": "Yes, the policy provides a benefit for health check-ups. Expenses for health check-ups are reimbursable at the end of a block of two continuous policy years, provided the policy has been continuously renewed without a break, subject to the limit stated in the Table of Benefits (Section 3.2.2). The limits for health check-ups vary across plans, with Plan A offering up to INR 5,000, Plan B up to INR 7,500, and Plan C up to INR 10,000."
+      },
+      {
+        "question": "How does the policy define a 'Hospital'?",
+        "answer": "According to the policy, a 'Hospital' is defined as any institution established for in-patient care and day care treatment of disease/injuries, registered as a hospital with local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010, or complying with minimum criteria such as having qualified nursing staff, inpatient beds, qualified medical practitioners, and a fully equipped operation theatre (Section 2.22). The hospital must maintain daily records of patients and make them accessible to the Company's authorized personnel."
+      },
+      {
+        "question": "What is the extent of coverage for AYUSH treatments?",
+        "answer": "The National Parivar Mediclaim Plus Policy covers AYUSH treatments under Section 3.1.6, with medical expenses indemnified up to the limit of the Sum Insured specified in the Policy Schedule, in any AYUSH Hospital. The policy covers Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems of medicines. The coverage is subject to the terms and conditions specified in the policy, including the definition of AYUSH Hospital and AYUSH Treatment under sections 2.6 and 2.7."
+      },
+      {
+        "question": "Are there any sub-limits on room rent and ICU charges for Plan A?",
+        "answer": "For Plan A, the sub-limits on room rent and Intensive Care Unit (ICU) charges are as follows: Room charges are limited to \"Up to 1% of SI or actual, whichever is lower\" and ICU charges are limited to \"Up to 2% of SI or actual, whichever is lower\" as per the Table of Benefits. These limits are applicable per day per insured person. The exact details are available in the Table of Benefits under Plan A."
+      }
+    ],
+    "summary": {
+      "total_questions": 10,
+      "successful_answers": 10,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:03"
+    }
+  },
+  {
+    "request_id": "ffd66498",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Happy%20Family%20Floater%20-%202024%20OICHLIP25046V062425%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A24%3A30Z&se=2026-08-01T17%3A24%3A00Z&sr=b&sp=r&sig=VNMTTQUjdXGYb2F4Di4P0zNvmM2rTBoEHr%2BnkUXIqpQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "In the case of a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, what is the procedure for claim settlement, coordination, and required documentation?",
+        "answer": "In a multi-policy scenario, if the available coverage under the primary policy is less than the admissible claim amount, the primary insurer shall seek details of other available policies of the policyholder and coordinate with other insurers to settle the balance amount as per policy conditions (Section 5.22). The insured person has the right to choose the primary insurer and claim the balance amount from another insurer if the amount exceeds the sum insured under a single policy. The primary insurer will settle the claim as per the terms of the chosen policy, and the insured person can claim the disallowed amount under another policy. The required documentation for claim settlement includes details of previous policies, which should be submitted to the primary insurer (Section 5.19)."
+      },
+      {
+        "question": "While checking the process for submitting a dental claim for a 23-year-old financially dependent daughter (who recently married and changed her surname), also confirm the process for updating her last name in the policy records and provide the company's grievance redressal email.",
+        "answer": "To submit a dental claim for the 23-year-old financially dependent daughter, the policyholder should provide the required claim documents, including original bills, receipts, and discharge certificates, to the Company/TPA within 15 days of discharge from the Hospital/Nursing Home, as per Section 5.19. However, since she is now married, she is no longer eligible for coverage under the policy as per Section A, which states that a female child can be covered until she gets married. To update her last name in the policy records, the policyholder should communicate the change in writing to the Company, and such change will be effective only when an endorsement on the policy is made, as per Section 5.14. For grievance redressal, the policyholder can refer to the link: https://orientalinsurance.org.in/grievance-redressal."
+      },
+      {
+        "question": "Suppose the insured's hospitalization was for evaluation and all tests and imaging were negative, leading to a decision for no treatment. Are these expenses claimable? Discuss using definitions and exclusions.",
+        "answer": "Expenses related to hospitalization primarily for diagnostics and evaluation purposes are excluded under the policy, as per Section 4.4 (Investigation & Evaluation – Code – ExcI04). Since all tests and imaging were negative and no treatment was given, the admission was primarily for evaluation, making the expenses non-claimable. The policy specifically excludes expenses for diagnostic purposes only, and this condition applies to the given scenario."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:11"
+    }
+  },
+  {
+    "request_id": "188ed243",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+    "questions_and_answers": [
+      {
+        "question": "When will my root canal claim of Rs 25,000 be settled?",
+        "answer": "The Company shall settle or reject your claim within 15 days from the date of receipt of the last necessary document (Section 9.4). If there is a delay beyond 15 days, the Company shall be liable to pay interest at a rate 2% above the bank rate (Section 9.4 ii). However, if an investigation is warranted, the Company shall settle or reject the claim within 45 days from the date of receipt of the last necessary document (Section 9.4 iii). You will be required to submit the necessary documents, including a duly completed claim form, medical practitioner's prescription, original bills, and payment receipts, within the prescribed time limit (Section 9.2)."
+      },
+      {
+        "question": "I have done an IVF for Rs 56,000. Is it covered?",
+        "answer": "The expenses related to Assisted Reproduction services, including IVF, are excluded under Section 7.14 (Sterility and Infertility) of the policy. Therefore, your IVF expenses of Rupees 56,000 are not covered under the Arogya Sanjeevani Policy."
+      },
+      {
+        "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+        "answer": "The policy covers cataract treatment up to 25% of the Sum Insured or Rs. 40,000 per eye, whichever is lower (Section 4.3). Assuming the Sum Insured is higher than Rs. 160,000 (since 25% of it would be more than Rs. 40,000), the maximum admissible amount for cataract treatment per eye is Rs. 40,000. Therefore, we will settle Rs. 40,000 for the cataract treatment, subject to the terms and conditions of the policy, including Co-pay clause (5% or 15% depending on age)."
+      },
+      {
+        "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+        "answer": "To submit a claim for hospitalization due to heart surgery, the following documents are required: i. Duly completed claim form ii. Photo Identity proof of the patient iii. Medical practitioner's prescription advising admission iv. Original bills with itemized break-up v. Payment receipts vi. Discharge summary including complete medical history of the patient along with other details vii. Investigation/Diagnostic test reports supported by the prescription from attending medical practitioner viii. OT notes or Surgeon's certificate giving details of the operation performed ix. Sticker/Invoice of the Implants, wherever applicable x. NEFT Details and cancelled cheque xi. KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh xii. Any other relevant document required by Company/TPA for assessment of the claim (as per Section 9.2)."
+      }
+    ],
+    "summary": {
+      "total_questions": 4,
+      "successful_answers": 4,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:19"
+    }
+  },
+  {
+    "request_id": "5841c34b",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "ട്രംപ് ഏത് ദിവസമാണ് 100% ശുൽകം പ്രഖ്യാപിച്ചത്?",
+        "answer": "2025 ഓഗസ്റ്റ് 6-നാണ് യുഎസ് പ്രസിഡന്റ് ഡൊണാൾഡ് ട്രംപ് വിദേശത്ത് നിർമ്മിച്ച കമ്പ്യൂട്ടർ ചിപ്പുകളുടെയും സെമികണ്ടക്ടറുകളുടെയും ഇറക്കുമതിക്ക് 100 ശതമാനം ശുല്ക്കം ഏർപ്പെടുത്തുമെന്ന് പ്രഖ്യാപിച്ചത്."
+      },
+      {
+        "question": "What was Apple’s investment commitment and what was its objective?",
+        "answer": "Apple's investment commitment was $600 billion. The objective of this significant investment was to boost its production in the US, aligning with the efforts to strengthen American infrastructure and reduce foreign dependency. This move is seen as a positive reinforcement of the initiatives taken by the US government. It is likely to encourage further investments and counter anti-business reactions."
+      }
+    ],
+    "summary": {
+      "total_questions": 2,
+      "successful_answers": 2,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:26"
+    }
+  },
+  {
+    "request_id": "15e1142b",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is my train number?",
+        "answer": "There is no information about a train number in the provided context. The context appears to be discussing economic and trade-related news, specifically about the US imposing tariffs on imported computer chips and semiconductors. Therefore, it is not possible to determine a train number from the given context."
+      }
+    ],
+    "summary": {
+      "total_questions": 1,
+      "successful_answers": 1,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:32"
+    }
+  },
+  {
+    "request_id": "81708375",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Test%20Case%20HackRx.pptx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A36%3A56Z&se=2026-08-05T18%3A36%3A00Z&sr=b&sp=r&sig=v3zSJ%2FKW4RhXaNNVTU9KQbX%2Bmo5dDEIzwaBzXCOicJM%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "There is no information about spark plug gap in the provided presentation context. The context appears to be related to health insurance policies, coverage, and exclusions. Therefore, it is not possible to determine the ideal spark plug gap as it is unrelated to the given context."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "The presentation context does not mention \"tubeless tyre version\" or any related information about vehicles or tyres. The content is related to an insurance policy, its coverage, exclusions, and terms (Slide titles such as \"Policy Overview\", \"General Waiting Period\", \"Policy Exclusions\"). Therefore, it is not possible to determine if a product comes in a tubeless tyre version based on this context."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "There is no mention of \"disc brake\" in the provided presentation context. The content appears to be related to health insurance policies, coverage, and exclusions, with no reference to vehicle parts or disc brakes. Therefore, it is not possible to determine if having a disc brake is compulsory based on the given context."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "There is no information in the provided presentation context about putting \"thums up\" instead of oil. The presentation appears to be related to health insurance policies, coverage, and exclusions, with no mention of \"thums up\" or oil substitution."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "I'm a presentation analysis expert, and I will not be able to provide JavaScript code as it is outside the scope of the provided presentation context. However, I can tell you that the presentation discusses various aspects of an insurance policy, including waiting periods, policy exclusions, and coverage details (Slide: Exclusions Waiting Periods, General Waiting Period)."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:42"
+    }
+  },
+  {
+    "request_id": "a14c787a",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Mediclaim%20Insurance%20Policy.docx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A42%3A14Z&se=2026-08-05T18%3A42%3A00Z&sr=b&sp=r&sig=yvnP%2FlYfyyqYmNJ1DX51zNVdUq1zH9aNw4LfPFVe67o%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+        "answer": "There is no mention of the \"National Parivar Mediclaim Plus Policy\" in the provided document. However, according to Section IV and V of the document, the premium due must be paid by the proposer to the company before the due date, and renewal of the policy is not automatic. The document does not specify a grace period for premium payment (Mediclaim Insurance Policy (Group) UIN: OICHLGP25047V032425, Sections IV and V)."
+      },
+      {
+        "question": "What is the waiting period for pre-existing diseases (PED) to be covered?",
+        "answer": "The waiting period for pre-existing diseases (PED) is 36 months, provided the condition was diagnosed or treated within 36 months prior to the effective date of the policy or its reinstatement (Section 3.15). If the Insured person is continuously covered without any break, the waiting period is reduced to the extent of prior coverage (Section 4.1.c). Coverage after 36 months is subject to the condition being declared at the time of application and accepted by the insurer (Section 4.1.d)."
+      },
+      {
+        "question": "Does this policy cover maternity expenses, and what are the conditions?",
+        "answer": "This policy covers maternity expenses under the \"Maternity Expenses and Newborn Child Cover Benefit Extension\" clause (Section 2C). To be eligible, the insured person must opt for this cover at the inception of the policy period, and it is subject to certain conditions, such as a 9-month waiting period for normal delivery or caesarean section (Section 2C, Special conditions b). The maximum benefit allowable is up to Rs. 50,000 (Section 2C, e)."
+      },
+      {
+        "question": "What is the waiting period for cataract surgery?",
+        "answer": "The waiting period for cataract surgery is 2 years, as specified in the policy document under section 4.1 (f), Ailment / Disease / Surgery Waiting Period, point Vii. This waiting period applies if the condition is contracted and/or manifested after the inception of the first policy, subject to continuity being maintained."
+      },
+      {
+        "question": "Are the medical expenses for an organ donor covered under this policy?",
+        "answer": "Yes, hospitalization expenses incurred for donating an organ to the insured person during the course of organ transplant are covered under this policy (as stated in the \"Note\" section). However, the cost of the organ itself is excluded, and the liability of the Company is limited to the overall Sum Insured of the Insured Person."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:50"
+    }
+  },
+  {
+    "request_id": "c19740d2",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Salary%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A46%3A54Z&se=2026-08-05T18%3A46%3A00Z&sr=b&sp=r&sig=sSoLGNgznoeLpZv%2FEe%2FEI1erhD0OQVoNJFDPtqfSdJQ%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the official name of India according to Article 1 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about Article 1 of the Constitution or the official name of India. The data appears to be related to individual names, mobile numbers, pincodes, and salaries."
+      },
+      {
+        "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+        "answer": "The provided spreadsheet context does not contain information about articles or laws. However, it is worth noting that according to the Indian Constitution, Article 14 guarantees equality before the law and equal protection of laws to all persons. The data in the spreadsheet is related to individuals, their mobile numbers, pincodes, and salaries. For example, the 'Name' column contains various names such as Aarav Sharma, Priya Patel, and Vikram Singh."
+      },
+      {
+        "question": "What is abolished by Article 17 of the Constitution?",
+        "answer": "There is no information in the provided spreadsheet context about Article 17 of the Constitution. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+        "answer": "There is no information about the Preamble of the Constitution of India in the provided spreadsheet context. The data appears to be related to individuals, containing details such as Name, Mobile Number, Pincode, and Salary."
+      },
+      {
+        "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+        "answer": "The provided spreadsheet context does not contain any information related to Articles or constitutional provisions regarding altering state boundaries. However, based on general knowledge, the answer is Article 3."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:20:57"
+    }
+  },
+  {
+    "request_id": "fe33dafe",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Pincode%20data.xlsx?sv=2023-01-03&spr=https&st=2025-08-04T18%3A50%3A43Z&se=2026-08-05T18%3A50%3A00Z&sr=b&sp=r&sig=xf95kP3RtMtkirtUMFZn%2FFNai6sWHarZsTcvx8ka9mI%3D",
+    "questions_and_answers": [
+      {
+        "question": "If my car is stolen, what case will it be in law?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If I am arrested without a warrant, is that legal?",
+        "answer": "HackRx."
+      },
+      {
+        "question": "If someone denies me a job because of my caste, is that allowed?",
+        "answer": "The provided data and context do not contain information related to caste or job denial. The spreadsheet contains columns for Name, Mobile Number, Pincode, and Salary, with various entries. For example, the salary of Aarav Sharma is 75000, and the Pincode is 110001. The data is organized in a tabular structure with headers."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:21:04"
+    }
+  },
+  {
+    "request_id": "a885d6db",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.png?sv=2023-01-03&spr=https&st=2025-08-04T19%3A21%3A45Z&se=2026-08-05T19%3A21%3A00Z&sr=b&sp=r&sig=lAn5WYGN%2BUAH7mBtlwGG4REw5EwYfsBtPrPuB0b18M4%3D",
+    "questions_and_answers": [
+      {
+        "question": "How does Newton define 'quantity of motion' and how is it distinct from 'force'?",
+        "answer": "The provided OCR extracted text does not contain any information related to Newton's definition of 'quantity of motion' or 'force'. The text appears to be related to insurance policies, specifically discussing room, boarding, and nursing expenses, as well as surgeon and medical practitioner fees. As the relevant information is not present in the OCR text, it is not possible to answer the question based on the provided context."
+      },
+      {
+        "question": "According to Newton, what are the three laws of motion and how do they apply in celestial mechanics?",
+        "answer": "There is no information about Newton's laws of motion or celestial mechanics in the provided OCR extracted text. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Image processing limitations do not affect the answer as the text is unrelated to the question."
+      },
+      {
+        "question": "How does Newton derive Kepler's Second Law (equal areas in equal times) from his laws of motion and gravitation?",
+        "answer": "There is no information in the provided OCR extracted text related to Newton's derivation of Kepler's Second Law or his laws of motion and gravitation. The text appears to be related to insurance policies, specifically detailing expenses and sum insured slabs for medical treatments. Therefore, it is not possible to answer the question based on the provided context."
+      }
+    ],
+    "summary": {
+      "total_questions": 3,
+      "successful_answers": 3,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:21:11"
+    }
+  },
+  {
+    "request_id": "f7cc3bc6",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image.jpeg?sv=2023-01-03&spr=https&st=2025-08-04T19%3A29%3A01Z&se=2026-08-05T19%3A29%3A00Z&sr=b&sp=r&sig=YnJJThygjCT6%2FpNtY1aHJEZ%2F%2BqHoEB59TRGPSxJJBwo%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is the ideal spark plug gap recommeded",
+        "answer": "The ideal spark plug gap recommended varies depending on the vehicle make, model, and engine type, as well as the type of spark plugs used. Generally, the recommended spark plug gap can be found in the vehicle's owner's manual or on the manufacturer's website. Typically, the recommended spark plug gap for most modern vehicles ranges from 0.028 to 0.060 inches (0.7 to 1.5 mm). However, some high-performance engines or those with specific ignition systems may require a different gap. Here are some general guidelines for spark plug gaps: * Standard spark plugs: 0.035 to 0.045 inches (0.9 to 1.1 mm) * Platinum or iridium spark plugs: 0.028 to 0.040 inches (0.7 to 1.0 mm) * High-performance engines: 0.020 to 0.028 inches (0.5 to 0.7 mm) It's essential to check the recommended spark plug gap for your specific vehicle to ensure proper engine performance, fuel efficiency, and to prevent damage to the engine or ignition system. Some examples of recommended spark plug gaps for popular vehicles are: * Ford: 0.052 to 0.056 inches (1.3 to 1.4 mm) * Chevrolet: 0.045 inches (1.1 mm) * Honda: 0.039 to 0.043 inches (1.0 to 1.1 mm) * Toyota: 0.043 inches (1.1 mm) Always consult your vehicle's owner's manual or manufacturer's website for the recommended spark plug gap for your specific vehicle."
+      },
+      {
+        "question": "Does this comes in tubeless tyre version",
+        "answer": "To provide an accurate answer, I would need to know the specific tyre model or vehicle you're referring to. However, since the details are not provided, I'll give a general overview of tubeless tyres and how to determine if a particular tyre comes in a tubeless version. Tubeless tyres are designed to operate without an inner tube. Instead, the tyre and rim form an airtight seal, and the tyre is inflated directly into the space between the tyre and the rim. This design has several advantages, including reduced risk of punctures from tube pinch flats, potentially better fuel efficiency due to lower rolling resistance, and less weight. To determine if a specific tyre comes in a tubeless version: 1. **Check the Tyre Sidewall**: Tubeless tyres are usually marked as \"Tubeless\" or \"TL\" on the sidewall. If it's a tubeless tyre, this information should be clearly indicated. 2. **Consult the Manufacturer's Specifications**: Tyre manufacturers typically list the specifications of their tyres on their official websites or in product catalogues. You can check these resources to see if the tyre model you're interested in is available in a tubeless version. 3. **Contact the Dealer or Manufacturer Directly**: If you're still unsure, contacting the tyre dealer or the manufacturer's customer service can provide a definitive answer. They can check the availability of tubeless versions for the specific tyre model you're interested in. 4. **Check Vehicle Compatibility**: Not all rims are designed to be tubeless. If you're considering upgrading to tubeless tyres, ensure your vehicle's rims are compatible with tubeless tyres. Some rims are specifically designed for tubeless use and have the necessary features to create an airtight seal. In summary, to find out if a particular tyre comes in a tubeless version, you should check the tyre's sidewall, consult the manufacturer's specifications, or contact the dealer/manufacturer directly. Without knowing the specific tyre model or vehicle, it's not possible to give a precise answer."
+      },
+      {
+        "question": "Is it compulsoury to have a disc brake",
+        "answer": "The necessity of having a disc brake depends on various factors, including the type of vehicle, its intended use, and local regulations. Here's a general overview: **Not always compulsory, but often recommended or required in certain situations:** 1. **High-performance vehicles:** Disc brakes are generally considered superior to drum brakes in terms of stopping power and heat dissipation. As such, they are often used in high-performance vehicles, such as sports cars. 2. **Heavy vehicles:** Large and heavy vehicles, like trucks and buses, often require disc brakes due to their higher kinetic energy and the need for more effective braking. 3. **Safety regulations:** Some countries or regions have regulations that mandate the use of disc brakes on certain types of vehicles, such as motorcycles or high-speed trains. 4. **Racing and motorsports:** Disc brakes are typically used in racing and motorsports due to their improved performance and reliability under high-stress conditions. **When disc brakes might be compulsory:** 1. **New vehicle safety standards:** Some countries have implemented safety standards that require new vehicles to be equipped with disc brakes, especially for the front wheels. 2. **High-speed applications:** Vehicles designed for high-speed operation, such as high-speed trains or certain types of motorcycles, may be required to have disc brakes to ensure safe stopping distances. **When disc brakes might not be necessary:** 1. **Low-speed applications:** For low-speed vehicles, such as those used in urban areas or for short-distance travel, drum brakes might be sufficient. 2. **Lightweight vehicles:** Smaller, lighter vehicles might not require the advanced braking performance offered by disc brakes. In summary, while disc brakes are not always compulsory, they are often recommended or required for certain types of vehicles or applications where high-performance braking is necessary or safety regulations dictate their use."
+      },
+      {
+        "question": "Can I put thums up instead of oil",
+        "answer": "No, you can't put Thums Up (a cola-flavored soft drink) instead of oil. Thums Up is a carbonated beverage that is not suitable for use as a lubricant or fuel. Oil, on the other hand, is a viscous liquid used for lubrication, cooking, or as a fuel. Using Thums Up in place of oil would not provide the necessary lubrication or fuel properties, and could potentially cause damage or create a mess. For example, putting Thums Up in a vehicle's engine or gearbox would be disastrous, as it's not designed to lubricate mechanical parts. If you're looking for a substitute for oil, you'll need to use a suitable alternative that is designed for the specific purpose you have in mind. If you're unsure, it's always best to consult with an expert or the manufacturer's guidelines."
+      },
+      {
+        "question": "Give me JS code to generate a random number between 1 and 100",
+        "answer": "To generate a random number between 1 and 100 in JavaScript, you can use the `Math.random()` function, which returns a random number between 0 (inclusive) and 1 (exclusive). You then scale this value to the desired range. Here's how you can do it: ```javascript function getRandomNumber(min, max) { // The minimum number is inclusive, and the maximum number is inclusive. return Math.floor(Math.random() * (max - min + 1)) + min; } // Generate a random number between 1 and 100 let randomNumber = getRandomNumber(1, 100); console.log(randomNumber); ``` In this code: 1. `Math.random()` generates a random number between 0 and 1. 2. `Math.random() * (max - min + 1)` scales this to a number between 0 and the range (`max - min + 1`), so for `min = 1` and `max = 100`, it generates a number between 0 and 100. 3. `Math.floor(...)` rounds down to the nearest whole number, giving a random integer between 0 and the range. 4. Adding `min` shifts this range to start from `min` instead of 0, so for `min = 1` and `max = 100`, you get a number between 1 and 100. This function is reusable for generating random numbers within any range by passing the minimum and maximum values as arguments."
+      }
+    ],
+    "summary": {
+      "total_questions": 5,
+      "successful_answers": 5,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:21:20"
+    }
+  },
+  {
+    "request_id": "04ce4fe6",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/Fact%20Check.docx?sv=2023-01-03&spr=https&st=2025-08-04T20%3A27%3A22Z&se=2028-08-05T20%3A27%3A00Z&sr=b&sp=r&sig=XB1%2FNzJ57eg52j4xcZPGMlFrp3HYErCW1t7k1fMyiIc%3D",
+    "questions_and_answers": [
+      {
+        "question": "If an insured person takes treatment for arthritis at home because no hospital beds are available, under what circumstances would these expenses NOT be covered, even if a doctor declares the treatment was medically required?",
+        "answer": "There is no relevant information in the provided document context regarding insurance coverage or medical treatment for arthritis. The document appears to be a collection of factually incorrect statements on various topics. As such, it is not possible to extract relevant information to answer the question comprehensively. The document does not contain any sections related to insurance or medical treatment (throughout the document)."
+      },
+      {
+        "question": "A claim was lodged for expenses on a prosthetic device after a hip replacement surgery. The hospital bill also includes the cost of a walker and a lumbar belt post-discharge. Which items are payable?",
+        "answer": "According to the provided context, there is no relevant information regarding hospital bills, prosthetic devices, or medical expenses. However, we can infer that the task requires an understanding of what is typically considered a payable medical expense. Although the document does not directly address this, it lists several unrelated false statements (Sections: various statements). To answer the question, one would typically consider the prosthetic device related to hip replacement surgery as payable, and possibly the walker and lumbar belt as they are often prescribed post-discharge for recovery (not directly supported by the document)."
+      },
+      {
+        "question": "An insured's child (a dependent above 18 but under 26, unemployed and unmarried) requires dental surgery after an accident. What is the claim admissibility, considering both eligibility and dental exclusions, and what is the process for this specific scenario?",
+        "answer": "There is no information in the provided document context regarding insurance claims, eligibility, dental exclusions, or the process for handling such scenarios. The document appears to contain a list of factually incorrect statements on various topics. As there is no relevant information, it is not possible to determine the claim admissibility or the process for the described scenario (Section: entire document)."
+      },
+      {
+        "question": "If an insured undergoes Intra Operative Neuro Monitoring (IONM) during brain surgery, and also needs ICU care in a city over 1 million population, how are the respective expenses limited according to modern treatments, critical care definition, and policy schedule?",
+        "answer": "There is no relevant information in the provided document context regarding Intra Operative Neuro Monitoring (IONM), Intensive Care Unit (ICU) care, modern treatments, critical care definition, or policy schedule. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine the respective expenses or limitations according to the requested information. No specific section or detail in the document can be referenced to answer this question."
+      },
+      {
+        "question": "A policyholder requests to add their newly-adopted child as a dependent. The child is 3 years old. What is the process and under what circumstances may the insurer refuse cover for the child, referencing eligibility and addition/deletion clauses?",
+        "answer": "There is no relevant information in the provided document context regarding insurance policies, eligibility, or addition/deletion clauses. The document appears to contain a collection of factually incorrect statements on various topics. As such, it is not possible to determine the process for adding a dependent child or the circumstances under which an insurer may refuse cover based on this context."
+      },
+      {
+        "question": "If a person is hospitalised for a day care cataract procedure and after two weeks develops complications requiring 5 days of inpatient care in a non-network hospital, describe the claim process for both events, referencing claim notification timelines and document requirements.",
+        "answer": "There is no relevant information in the provided document context regarding the claim process for hospitalization or medical procedures. The document appears to contain a collection of factually incorrect statements on various topics. As such, it is not possible to extract information related to the claim process or medical procedures from this document. Therefore, the question cannot be answered based on the provided context."
+      },
+      {
+        "question": "An insured mother with cover opted for maternity is admitted for a complicated C-section but sadly, the newborn expires within 24 hours requiring separate intensive care. What is the claim eligibility for the newborn's treatment expenses, referencing definitions, exclusions, and newborn cover terms?",
+        "answer": "There is no information in the provided document context related to insurance claims, maternity cover, or newborn care. The document appears to contain a list of factually incorrect statements on various topics. As such, it is not possible to determine claim eligibility for the newborn's treatment expenses based on this context. Therefore, the question cannot be answered using the provided document."
+      }
+    ],
+    "summary": {
+      "total_questions": 7,
+      "successful_answers": 7,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 11:21:43"
+    }
+  },
+  {
+    "request_id": "08a88f07",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/TG_NIAPOLICYCLAUSEDOCTG%201.PDF?sv=2023-01-03&spr=https&st=2025-08-11T16%3A50%3A58Z&se=2026-08-12T16%3A50%3A00Z&sr=b&sp=r&sig=acEgS1n5v7ZJCwjbBzgKGohHSUAkmLAjhvYidNhHeDo%3D",
+    "questions_and_answers": [
+      {
+        "question": "Describe the timeline for claim settlement or rejection, including penalties for delays and the handling of document deficiencies.",
+        "answer": "The Company shall settle or reject a claim within thirty days of receiving the last necessary document (Clause 5.8). If there are valid reasons for delay, claims filed beyond the initial thirty-day period for submitting documents from the date of discharge will be considered. If documents are not submitted within seven days of the third reminder following a deficiency request, the claim shall stand repudiated. In case of delays, claims will be paid with a penal interest as per Regulation 9(6) of IRDAI (Protection of Policyholders’ Interests) Regulations, 2017."
+      },
+      {
+        "question": "What documents are required for notice of claim, and how does the waiver provision for delayed intimation work?",
+        "answer": "For a notice of claim, the required documents include particulars relating to Policy Number, name of insured person, nature of Illness/Injury, and Name and Address of the attending Medical Practitioner/Hospital/Nursing Home, which should be submitted within 7 days from the date of hospitalization (Section 5.11). The waiver provision allows for consideration of delayed intimation in extreme cases of hardships, where it is proved to the satisfaction of the Company/TPA that giving notice within the prescribed time limit was not possible (Waiver clause). The waiver is not a matter of right and is subject to the Company's/TPA's approval."
+      },
+      {
+        "question": "What are the conditions and limitations for the optional maternity expenses benefit extension, including waiting periods and exclusions?",
+        "answer": "The Maternity Expenses Benefit Extension is subject to certain conditions and limitations. The benefit is admissible only if expenses are incurred in a hospital as an inpatient in India, with a 9-month waiting period applicable for normal delivery or caesarian section, which may be relaxed in case of delivery miscarriage or abortion induced by accident or medical emergency (Special conditions applicable to Maternity Expenses Benefit Extension, clause 2). Additionally, claims are considered only for the first two children, and pre-natal and post-natal expenses are not covered unless admitted in a hospital (clauses 3 and 5). Exclusion 4.4.15 is deleted when this benefit is opted (Note)."
+      },
+      {
+        "question": "How are claims handled if medical expenses span two policy periods, and what is the company's stance on repudiation?",
+        "answer": "If a claim event falls within two policy periods, the claims shall be paid considering the available Sum Insured of the expiring policy only, as per Section 9.0. The Sum Insured of the renewed policy will not be available for hospitalization expenses that commenced in the expiring policy, and the claim will be settled on a per event basis. Regarding repudiation, the company can reject a claim if it is not covered under the policy conditions, as stated in Section 10.0, and will communicate the grounds for repudiation to the insured through the TPA."
+      }
+    ],
+    "summary": {
+      "total_questions": 4,
+      "successful_answers": 4,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 23:54:22"
+    }
+  },
+  {
+    "request_id": "730d2de6",
+    "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image%20(1).png?sv=2023-01-03&spr=https&st=2025-08-11T16%3A54%3A36Z&se=2026-08-12T16%3A54%3A00Z&sr=b&sp=r&sig=d5zWWItc5pGsRLn8Y4%2Bp5FNndQXfXBGyR22RofrX9Fc%3D",
+    "questions_and_answers": [
+      {
+        "question": "രാഹുൽ ഗാന്ധി ഏതു വിഷയത്തിൽ ജനങ്ങളോട് അഭ്യർത്ഥിച്ചു?",
+        "answer": "രാഹുൽ ഗാന്ധി ലോക്ഡൗണിൽ വീട്ടിൽ തുടരാൻ ജനങ്ങളോട് അഭ്യർത്ഥിച്ചു. (Translation: Rahul Gandhi appealed to the people to stay home during the lockdown.) Image contains text related to Rahul Gandhi and lockdown. (No image processing limitations noted for this answer)."
+      },
+      {
+        "question": "\"വോട്ട് കൊള്ള\" സംബന്ധിച്ച് നൽകിയിരിക്കുന്ന ഓൺലൈൻ ലിങ്ക് ഏതാണ്?",
+        "answer": "The relevant text from the OCR extracted context is \"ALSO READ : @5360PI0) QIyl, 69301, Oalnlo (05340@; 《nllos @Jaqlgl3 80 @0435230 ! ;\". The link mentioned is likely \"@5360PI0)\". The text is likely a Malayalam text and \"@5360PI0)\" is probably a shortened URL or a link. Limitations: The OCR text may contain errors due to image quality or font complexity."
+      }
+    ],
+    "summary": {
+      "total_questions": 2,
+      "successful_answers": 2,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 23:56:44"
+    }
+  },
+  {
+    "request_id": "ac2dfbea",
+    "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+    "questions_and_answers": [
+      {
+        "question": "What is my flight number?",
+        "answer": "To determine your flight number, you need to follow the steps outlined in the mission guide. 1. Call the endpoint `GET https://register.hackrx.in/submissions/myFavouriteCity` to get your city name. 2. Use the provided tables to map the city to its landmark. 3. Based on the landmark, call the corresponding endpoint to get the flight number. For example, if your city is \"Chennai\" and its landmark is \"Charminar\", you would call `GET https://register.hackrx.in/teams/public/flights/getFifthCityFlightNumber` since \"Charminar\" doesn't match any of the first four conditions. The final flight number will be returned based on the endpoint called in step 3."
+      }
+    ],
+    "summary": {
+      "total_questions": 1,
+      "successful_answers": 1,
+      "failed_answers": 0,
+      "timestamp": "2025-08-11 23:56:48"
+    }
   }
 ]

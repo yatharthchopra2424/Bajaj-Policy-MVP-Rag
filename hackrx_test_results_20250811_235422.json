@@ -1,0 +1,28 @@
+{
+  "request_id": "08a88f07",
+  "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/TG_NIAPOLICYCLAUSEDOCTG%201.PDF?sv=2023-01-03&spr=https&st=2025-08-11T16%3A50%3A58Z&se=2026-08-12T16%3A50%3A00Z&sr=b&sp=r&sig=acEgS1n5v7ZJCwjbBzgKGohHSUAkmLAjhvYidNhHeDo%3D",
+  "questions_and_answers": [
+    {
+      "question": "Describe the timeline for claim settlement or rejection, including penalties for delays and the handling of document deficiencies.",
+      "answer": "The Company shall settle or reject a claim within thirty days of receiving the last necessary document (Clause 5.8). If there are valid reasons for delay, claims filed beyond the initial thirty-day period for submitting documents from the date of discharge will be considered. If documents are not submitted within seven days of the third reminder following a deficiency request, the claim shall stand repudiated. In case of delays, claims will be paid with a penal interest as per Regulation 9(6) of IRDAI (Protection of Policyholders’ Interests) Regulations, 2017."
+    },
+    {
+      "question": "What documents are required for notice of claim, and how does the waiver provision for delayed intimation work?",
+      "answer": "For a notice of claim, the required documents include particulars relating to Policy Number, name of insured person, nature of Illness/Injury, and Name and Address of the attending Medical Practitioner/Hospital/Nursing Home, which should be submitted within 7 days from the date of hospitalization (Section 5.11). The waiver provision allows for consideration of delayed intimation in extreme cases of hardships, where it is proved to the satisfaction of the Company/TPA that giving notice within the prescribed time limit was not possible (Waiver clause). The waiver is not a matter of right and is subject to the Company's/TPA's approval."
+    },
+    {
+      "question": "What are the conditions and limitations for the optional maternity expenses benefit extension, including waiting periods and exclusions?",
+      "answer": "The Maternity Expenses Benefit Extension is subject to certain conditions and limitations. The benefit is admissible only if expenses are incurred in a hospital as an inpatient in India, with a 9-month waiting period applicable for normal delivery or caesarian section, which may be relaxed in case of delivery miscarriage or abortion induced by accident or medical emergency (Special conditions applicable to Maternity Expenses Benefit Extension, clause 2). Additionally, claims are considered only for the first two children, and pre-natal and post-natal expenses are not covered unless admitted in a hospital (clauses 3 and 5). Exclusion 4.4.15 is deleted when this benefit is opted (Note)."
+    },
+    {
+      "question": "How are claims handled if medical expenses span two policy periods, and what is the company's stance on repudiation?",
+      "answer": "If a claim event falls within two policy periods, the claims shall be paid considering the available Sum Insured of the expiring policy only, as per Section 9.0. The Sum Insured of the renewed policy will not be available for hospitalization expenses that commenced in the expiring policy, and the claim will be settled on a per event basis. Regarding repudiation, the company can reject a claim if it is not covered under the policy conditions, as stated in Section 10.0, and will communicate the grounds for repudiation to the insured through the TPA."
+    }
+  ],
+  "summary": {
+    "total_questions": 4,
+    "successful_answers": 4,
+    "failed_answers": 0,
+    "timestamp": "2025-08-11 23:54:22"
+  }
+}

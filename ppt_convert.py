@@ -31,8 +31,8 @@ def convert_pptx_to_pdf(pptx_path):
 
     print(f"[INFO] Converting {pptx_path} to PDF")
 
+    import pythoncom
     try:
-        import pythoncom
         pythoncom.CoInitialize()  # Initialize COM for the current thread
         
         powerpoint = None

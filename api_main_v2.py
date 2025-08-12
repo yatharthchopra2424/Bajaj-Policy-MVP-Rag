@@ -13,12 +13,11 @@ import uuid
 import json
 from datetime import datetime
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Any
 from dotenv import load_dotenv
 from asyncio import Lock
-    # Start ngrok tunnel and expose FastAPI app
+from collections import defaultdict
 import re
 import mimetypes
 from urllib.parse import urlparse
@@ -80,10 +79,50 @@ SUPPORTED_EXTENSIONS = {
     '.csv': 'csv'
 }
 
-# === Embedding Cache Setup ===
+# === Logger Setup ===
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# === Cache Setup ===
 CACHE_DIR = "embedding_cache"
-if not os.path.exists(CACHE_DIR):
-    os.makedirs(CACHE_DIR)
+MARKDOWN_CACHE_DIR = os.path.join(CACHE_DIR, "markdown")
+
+# Create cache directories
+for cache_dir in [CACHE_DIR, MARKDOWN_CACHE_DIR]:
+    if not os.path.exists(cache_dir):
+        os.makedirs(cache_dir)
+        logger.info(f"📁 Created cache directory: {cache_dir}")
+
+def get_markdown_cache_path(url):
+    """Get the cache file path for markdown content"""
+    cache_key = hashlib.md5(url.encode()).hexdigest()
+    return os.path.join(MARKDOWN_CACHE_DIR, f"{cache_key}_ppt.md")
+
+def save_markdown_to_cache(content, url):
+    """Save markdown content to cache"""
+    try:
+        cache_path = get_markdown_cache_path(url)
+        with open(cache_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+        logger.info(f"💾 Markdown content cached: {cache_path}")
+        return True
+    except Exception as e:
+        logger.warning(f"⚠️ Failed to cache markdown: {e}")
+        return False
+
+def load_markdown_from_cache(url):
+    """Load markdown content from cache if it exists"""
+    try:
+        cache_path = get_markdown_cache_path(url)
+        if os.path.exists(cache_path):
+            with open(cache_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            logger.info(f"📋 Loaded markdown from cache: {cache_path}")
+            return content
+        return None
+    except Exception as e:
+        logger.warning(f"⚠️ Failed to load markdown from cache: {e}")
+        return None
 
 def get_file_hash(url, file_content=None):
     """Generate a unique hash for the file URL and content type"""
@@ -407,7 +446,58 @@ def load_document_by_type(file_path, file_type, original_url):
             loader = PyMuPDFLoader(file_path)
             documents = loader.load()
         elif file_type == 'powerpoint':
-            loader = UnstructuredPowerPointLoader(file_path)
+            logger.info(f"🎯 Processing PowerPoint file: {file_path}")
+            try:
+                # First try importing the converter
+                from ppt_convert import convert_powerpoint_to_markdown
+                logger.info("📚 Imported PowerPoint converter module")
+                
+                # Check if markdown cache exists
+                cached_content = load_markdown_from_cache(original_url)
+                if cached_content:
+                    documents = [Document(
+                        page_content=cached_content,
+                        metadata={
+                            "source": original_url,
+                            "type": "presentation",
+                            "cached": True
+                        }
+                    )]
+                    return documents
+                
+                # Convert PowerPoint if no cache exists
+                logger.info("🔄 Starting PowerPoint to Markdown conversion using Docling...")
+                markdown_content, error = convert_powerpoint_to_markdown(file_path)
+                
+                if error:
+                    raise Exception(f"PowerPoint conversion failed: {error}")
+                
+                # Cache the markdown content
+                save_markdown_to_cache(markdown_content, original_url)
+                
+                documents = [Document(
+                    page_content=markdown_content,
+                    metadata={
+                        "source": original_url,
+                        "type": "presentation",
+                        "cached": False,
+                        "converted_at": time.strftime('%Y-%m-%d %H:%M:%S')
+                    }
+                )]
+                logger.info("✅ PowerPoint processing completed successfully")
+                return documents
+                
+            except Exception as e:
+                logger.error(f"❌ PowerPoint processing failed: {str(e)}")
+                # Fall back to UnstructuredPowerPointLoader
+                logger.info("🔄 Falling back to UnstructuredPowerPointLoader...")
+                try:
+                    loader = UnstructuredPowerPointLoader(file_path)
+                    documents = loader.load()
+                    return documents
+                except Exception as fallback_error:
+                    logger.error(f"❌ Fallback loader failed: {str(fallback_error)}")
+                    raiseloader = UnstructuredPowerPointLoader(file_path)
             documents = loader.load()
         elif file_type == 'word':
             try:
@@ -1140,18 +1230,6 @@ async def get_next_nvidia_key():
 
 # === FastAPI App ===
 app = FastAPI()
-
-origins = [
-    "http://localhost:3000",
-]
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 # === Logger Setup ===
 logging.basicConfig(level=logging.INFO)
@@ -2245,10 +2323,12 @@ async def handle_rag_request(payload: HackRxInput):
             except Exception as cleanup_error:
                 logger.warning(f"[{request_id}] ⚠ Cleanup failed: {cleanup_error}")
 
+# === Local Run with Ngrok ===
 if __name__ == "__main__":
     import uvicorn
     from pyngrok import ngrok
 
     public_url = ngrok.connect("8000")
     logger.info(f"🌍 Ngrok tunnel running at: {public_url}")
+
     uvicorn.run(app, host="0.0.0.0", port=8000)

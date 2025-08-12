@@ -1,0 +1,16 @@
+{
+  "request_id": "ac2dfbea",
+  "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+  "questions_and_answers": [
+    {
+      "question": "What is my flight number?",
+      "answer": "To determine your flight number, you need to follow the steps outlined in the mission guide. 1. Call the endpoint `GET https://register.hackrx.in/submissions/myFavouriteCity` to get your city name. 2. Use the provided tables to map the city to its landmark. 3. Based on the landmark, call the corresponding endpoint to get the flight number. For example, if your city is \"Chennai\" and its landmark is \"Charminar\", you would call `GET https://register.hackrx.in/teams/public/flights/getFifthCityFlightNumber` since \"Charminar\" doesn't match any of the first four conditions. The final flight number will be returned based on the endpoint called in step 3."
+    }
+  ],
+  "summary": {
+    "total_questions": 1,
+    "successful_answers": 1,
+    "failed_answers": 0,
+    "timestamp": "2025-08-11 23:56:48"
+  }
+}

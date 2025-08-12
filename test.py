@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 # Define the API endpoint URL (replace with your actual ngrok or local URL, e.g., "http://localhost:8000/hackrx/run" or the ngrok public URL)
-url = "https://063817bd2d25.ngrok-free.app/"  # Update this with the actual URL where the FastAPI app is running
+url = "https://1db8bd8b80b8.ngrok-free.app/"  # Update this with the actual URL where the FastAPI app is running
 API_URL = f"{url}hackrx/run"  # Update this with the actual URL where the FastAPI app is running
 
 

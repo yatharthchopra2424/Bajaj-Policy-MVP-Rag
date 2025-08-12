@@ -1,0 +1,20 @@
+{
+  "request_id": "730d2de6",
+  "document_url": "https://hackrx.blob.core.windows.net/assets/Test%20/image%20(1).png?sv=2023-01-03&spr=https&st=2025-08-11T16%3A54%3A36Z&se=2026-08-12T16%3A54%3A00Z&sr=b&sp=r&sig=d5zWWItc5pGsRLn8Y4%2Bp5FNndQXfXBGyR22RofrX9Fc%3D",
+  "questions_and_answers": [
+    {
+      "question": "രാഹുൽ ഗാന്ധി ഏതു വിഷയത്തിൽ ജനങ്ങളോട് അഭ്യർത്ഥിച്ചു?",
+      "answer": "രാഹുൽ ഗാന്ധി ലോക്ഡൗണിൽ വീട്ടിൽ തുടരാൻ ജനങ്ങളോട് അഭ്യർത്ഥിച്ചു. (Translation: Rahul Gandhi appealed to the people to stay home during the lockdown.) Image contains text related to Rahul Gandhi and lockdown. (No image processing limitations noted for this answer)."
+    },
+    {
+      "question": "\"വോട്ട് കൊള്ള\" സംബന്ധിച്ച് നൽകിയിരിക്കുന്ന ഓൺലൈൻ ലിങ്ക് ഏതാണ്?",
+      "answer": "The relevant text from the OCR extracted context is \"ALSO READ : @5360PI0) QIyl, 69301, Oalnlo (05340@; 《nllos @Jaqlgl3 80 @0435230 ! ;\". The link mentioned is likely \"@5360PI0)\". The text is likely a Malayalam text and \"@5360PI0)\" is probably a shortened URL or a link. Limitations: The OCR text may contain errors due to image quality or font complexity."
+    }
+  ],
+  "summary": {
+    "total_questions": 2,
+    "successful_answers": 2,
+    "failed_answers": 0,
+    "timestamp": "2025-08-11 23:56:44"
+  }
+}
